@@ -6,6 +6,3 @@ url: https://cake-tech.github.io/cakewallet-guides
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-plugins:
-  - jekyll-default-layout
