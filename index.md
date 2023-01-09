@@ -1,30 +1,23 @@
 ---
-title: Home
 layout: home
+title: Home
+description: "Cake Wallet Guides and Support"
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Hello!
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+The Cake Wallet support staff want to make sure that you have an excellent user experience. We have staff working around the clock to respond to questions.
 
-More specifically, the created site:
+Here you can find answers to the most common questions about Cake Wallet. If you don't find an answer to your question, contact us by email **support@cakewallet.com**, using [**Telegram**](https://t.me/cakewallet_bot), or using [**Twitter**](https://twitter.com/cakewallet).
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+[Email support](mailto:support@cakewallet.com){: .btn .btn-blue .mr-4 }
+[Telegram support](https://t.me/cakewallet_bot){: .btn .btn-blue .mr-4 }
+[Twitter support](https://twitter.com/cakewallet){: .btn .btn-blue }
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## General info
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+Cake Wallet is a non-custodial wallet. This means that all information about your wallet stores on your device, and you, the user, are 100% in control of your wallet and your funds. To fast and properly work your wallet should be always synchronized and you should see a "Synchronized" label on the top of the Main screen. The wallet has to scan the particular block the transaction was included in before it can display it in your wallet.  You need to leave the Cake Wallet app open with your Phone awake while your wallet rescans the blocks for transactions involving your wallet.
 
-To get started with creating a site, just click "[use this template]"!
+## Cake Wallet service status
 
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[**https://status.cakewallet.com**](https://status.cakewallet.com)
