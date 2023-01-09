@@ -1,0 +1,24 @@
+---
+title: "Why are my funds not appearing?"
+parent: Bugs and service status
+---
+
+# Why are my funds not appearing?  
+
+Firstly, don't forget that your wallet must be synchronized before it displays the correct balance. You should see a "Synchronized" label in the rounded bar at the top of your screen.  
+
+[![Synchronized](/assets/images/funds-1.jpg)](/assets/images/funds-1.jpg)
+
+If you see "XXXX blocks remaining" this means that your wallet is still synchronizing. Please wait until it is fully synchronized. If your wallet already displays "Synchronized", you can try rescanning by opening the menu at the top-right, tapping "Rescan", and setting a date from about a week before the wallet's first transaction.
+
+[![Syncing](/assets/images/funds-2.jpg)](/assets/images/funds-2.jpg)
+
+### I did not receive funds from an exchange  
+
+If you created an exchange using the built-in exchange within the Cake Wallet app and are not seeing your expected balance, go to the Trade Details screen and check the status of the exchange. If your status is "Waiting" or "Fetching", this means that your trade is processing. Please wait.
+
+If the status is "Finished", and your wallet is synchronized, please contact our support team at [support@cakewallet.com](mailto:support@cakewallet.com).
+
+### I did not receive funds from another wallet
+
+If you see an incoming transaction and your "Available Balance" and "Full Balance" differ, please wait for up to ~20 minutes while your transaction is confirmed on the Monero blockchain. Or, wait for 3 confirmations on the Bitcoin blockchain. If your wallet is synchronized, and the incoming transaction is not displaying, please contact our support team at [support@cakewallet.com](mailto:support@cakewallet.com).  

@@ -1,3 +1,49 @@
+
+# Cake Wallet Guides
+
+[Read the guides](https://guides.cakewallet.com)!
+
+Forked from Just the Docs. MIT licensed.
+
+## Contributing
+
+Contributing is encouraged! You can contribute in the simple markdown format.
+
+Please follow these guidelines:
+
+1. Be polite!
+2. Make the changes clean and simple.
+3. Reuse existing images wherever possible.
+4. Use clear instructions.
+
+### Data locations
+
+Pages are located under `\docs`. Images are located under `\assets\images\`
+
+### Linking images
+
+When linking images, follow a format like this:
+
+`[![Image name](/assets/images/image.jpg){:width="32%"}](/assets/images/image.jpg)`
+
+This will format the image to 1/3 of the width of the screen, and it will allow a user to click on the image to get a full-screen view.
+
+In select circumstances (such as short, wide images), it's better to make the image full-width. To do this, delete `{:width="32%"}` from the formatting above.
+
+### Linking videos
+
+When linking videos on YouTube, follow a format like this:
+
+`[![Video name](https://img.youtube.com/vi/pbQD7McNTxc/maxresdefault.jpg)](https://www.youtube.com/watch?v=pbQD7McNTxc)`
+
+Replace both instances of `pbQD7McNTxc` with the video you need to add. This will display the YouTube thumbnail of the same video, which a user can click on to open the video.
+
+## Cake Wallet community
+
+Join the Cake Wallet community! https://t.me/cakewallet
+
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
