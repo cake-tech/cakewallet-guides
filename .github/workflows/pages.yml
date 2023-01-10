@@ -40,6 +40,9 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
+      - name: Update lockfile
+        # https://github.com/just-the-docs/just-the-docs-template/issues/13#issuecomment-1376396301
+        run: bundle install
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
