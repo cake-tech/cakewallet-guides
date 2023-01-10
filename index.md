@@ -21,7 +21,9 @@ Here you can find answers to the most common questions about Cake Wallet. If you
 
 ## General info
 
-Cake Wallet is a non-custodial wallet. This means that all information about your wallet stores on your device, and you, the user, are 100% in control of your wallet and your funds. To fast and properly work your wallet should be always synchronized and you should see a "Synchronized" label on the top of the Main screen. The wallet has to scan the particular block the transaction was included in before it can display it in your wallet.  You need to leave the Cake Wallet app open with your Phone awake while your wallet rescans the blocks for transactions involving your wallet.
+Cake Wallet is a non-custodial wallet. This means that all information about your wallet stores on your device, and you, the user, are 100% in control of your wallet and your funds.
+
+Click on a page or search for what you need help with. Support is only a click or message away!
 
 ## Cake Wallet service status
 
