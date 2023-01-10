@@ -1,10 +1,15 @@
 ---
 layout: home
 title: Home
+nav_order: 1
 description: "Cake Wallet Guides and Support"
+permalink: /
 ---
 
 # Hello!
+
+{: .friendly}
+Thanks for using Cake Wallet! Cake Wallet is open source and non-custodial. Thanks for supporting FOSS ❤️
 
 The Cake Wallet support staff want to make sure that you have an excellent user experience. We have staff working around the clock to respond to questions.
 

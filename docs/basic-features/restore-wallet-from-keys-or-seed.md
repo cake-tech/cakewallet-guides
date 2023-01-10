@@ -5,6 +5,9 @@ parent: Basic features
 
 # How do I restore/recover a wallet from keys or seed? 
 
+{: .warning}
+NEVER share your seeds/keys with anyone! If you do, they can steal your funds. Always save your seeds in a safe place!
+
 ## Step 1
 
 Go to the menu at the top. Tap "Wallets", then "Restore Wallet”.
