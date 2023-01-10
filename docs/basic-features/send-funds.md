@@ -13,9 +13,9 @@ To get to the send screen, tap `Send` on the balance screen. Then, you should pa
 
 Note that the network fee is added to the transaction separately. So if your balance is 1 XMR, you are sending 0.5 XMR to someone, and the network fee is 0.01 XMR, then you will spend a total of 0.51 XMR for the transaction. If you send your entire balance by clicking the `ALL` button in the upper right, then the network fee will be deducted from the full balance. In the "Confirm sending" window, the total amount deducted from the wallet balance is the sum of the "Amount" and the "Fee" values.
 
-[![Click send on home screen](/assets/images/send-1.jpg){:width="32%"}](/assets/images/send-1.jpg)
-[![Fill in address and amount](/assets/images/send-2.jpg){:width="32%"}](/assets/images/send-2.jpg)
-[![Confirm sending](/assets/images/send-3.jpg){:width="32%"}](/assets/images/send-3.jpg)
+[![Click send on home screen](/images/send-1.jpg){:width="32%"}](/images/send-1.jpg)
+[![Fill in address and amount](/images/send-2.jpg){:width="32%"}](/images/send-2.jpg)
+[![Confirm sending](/images/send-3.jpg){:width="32%"}](/images/send-3.jpg)
 
 ## How to send and receive Monero 
 

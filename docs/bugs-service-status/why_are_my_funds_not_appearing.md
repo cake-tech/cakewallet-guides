@@ -7,11 +7,11 @@ parent: Bugs and service status
 
 Firstly, don't forget that your wallet must be synchronized before it displays the correct balance. You should see a "Synchronized" label in the rounded bar at the top of your screen.  
 
-[![Synchronized](/assets/images/funds-1.jpg)](/assets/images/funds-1.jpg)
+[![Synchronized](/images/funds-1.jpg)](/images/funds-1.jpg)
 
 If you see "XXXX blocks remaining" this means that your wallet is still synchronizing. Please wait until it is fully synchronized. If your wallet already displays "Synchronized", you can try rescanning by opening the menu at the top-right, tapping "Rescan", and setting a date from about a week before the wallet's first transaction.
 
-[![Syncing](/assets/images/funds-2.jpg)](/assets/images/funds-2.jpg)
+[![Syncing](/images/funds-2.jpg)](/images/funds-2.jpg)
 
 ### I did not receive funds from an exchange  
 

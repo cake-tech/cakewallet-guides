@@ -9,4 +9,4 @@ Your 'Full' and 'Available' Balances are a part of how the Monero network operat
 
 After you send an outgoing transaction, you have to wait 10 blocks before your transaction will appear in your "Available Balance". Similarly, when you initially receive an incoming XMR transaction, you'd need to wait 10 blocks before the incoming XMR transaction will be reflected in your "Available Balance". This is not something that Cake Wallet can change or update in a future version, as this is enforced by the Monero blockchain itself. 
 
-[![Balance](/assets/images/balance1.jpg){:width="32%"}](/assets/images/balance1.jpg)
+[![Balance](/images/balance1.jpg){:width="32%"}](/images/balance1.jpg)

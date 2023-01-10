@@ -11,25 +11,25 @@ If you would like to exchange cryptocurrencies, then you can use Cake Wallet's b
 
 Go to the balance screen and tap on the "Exchange" button. Choose your desired currencies under "Convert from" and "Convert to", by tapping on the abbreviation with a dropdown arrow to the right.
 
-[![Click Exchange icon on homescreen](/assets/images/exchange1.jpg){:width="32%"}](/assets/images/exchange1.jpg)
-[![Change "Convert from" and "Convert to" values](/assets/images/exchange2.jpg){:width="32%"}](/assets/images/exchange2.jpg)
-[![Optionally change exchange provider from available options](/assets/images/exchange3.jpg){:width="32%"}](/assets/images/exchange3.jpg)
+[![Click Exchange icon on homescreen](/images/exchange1.jpg){:width="32%"}](/images/exchange1.jpg)
+[![Change "Convert from" and "Convert to" values](/images/exchange2.jpg){:width="32%"}](/images/exchange2.jpg)
+[![Optionally change exchange provider from available options](/images/exchange3.jpg){:width="32%"}](/images/exchange3.jpg)
 
 ### Step 2
 
 Input the receiving address (using the paste button, scanning QR code, or using Address book). We use your current BTC or XMR wallet address as the refund address. Then enter an amount. You can send all available funds from your wallet by pressing the "All" button. Check that all of the filled-in information is correct, and press "Exchange". On the next screen, you will see the Trade ID. Please copy or save the Trade ID.
 
-[![Add amount and address](/assets/images/exchange4.jpg){:width="32%"}](/assets/images/exchange4.jpg)
-[![Save trade ID](/assets/images/exchange5.jpg){:width="32%"}](/assets/images/exchange5.jpg)
-[![Confrim sending](/assets/images/exchange6.jpg){:width="32%"}](/assets/images/exchange5.jpg)
+[![Add amount and address](/images/exchange4.jpg){:width="32%"}](/images/exchange4.jpg)
+[![Save trade ID](/images/exchange5.jpg){:width="32%"}](/images/exchange5.jpg)
+[![Confrim sending](/images/exchange6.jpg){:width="32%"}](/images/exchange5.jpg)
 
 ### Step 3
 
 To confirm the trade, press "Confirm". After that, you will see the trade details screen. You can track the status of the exchange there. The status will display "Finished" when an exchange has been completed. You can also tap "Track" to track your trade with the provided link. You can always come back to this screen by swiping to the right of your balance, and tapping on the exchange in your Transaction History.
 
-[![Click confirm to proceed](/assets/images/exchange7.jpg){:width="32%"}](/assets/images/exchange7.jpg)
-[![See trade under Transactions screen](/assets/images/exchange8.jpg){:width="32%"}](/assets/images/exchange8.jpg)
-[![See trade details and state](/assets/images/exchange9.jpg){:width="32%"}](/assets/images/exchange9.jpg) 
+[![Click confirm to proceed](/images/exchange7.jpg){:width="32%"}](/images/exchange7.jpg)
+[![See trade under Transactions screen](/images/exchange8.jpg){:width="32%"}](/images/exchange8.jpg)
+[![See trade details and state](/images/exchange9.jpg){:width="32%"}](/images/exchange9.jpg) 
 
 
 ## You can watch our YouTube tutorials here:

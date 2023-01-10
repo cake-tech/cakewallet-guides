@@ -16,15 +16,15 @@ If your wallet is not fully synced, your wallet balance may be incorrect, and yo
 
 ## Accounts and subaddresses
 
-[![Monero addresses](/assets/images/monero-addresses.png)](/assets/images/monero-addresses.png)
+[![Monero addresses](/images/monero-addresses.png)](/images/monero-addresses.png)
 
 ### Monero subaddresses
 
 A Monero subaddress is a unique, unlinkable address that can be generated on-demand. Coins sent to it will still arrive in your main wallet, but the person sending the coins cannot determine your wallet's main address. To create a new subaddress, tap on `Accounts and subaddresses`, then tap on `Addresses` and create a name for this address, then tap `Create`. Subaddresses always start with `8`. Your main address starts with `4`.
 
-[![New address](/assets/images/receive-4.jpg){:width="32%"}](/assets/images/receive-4.jpg)
-[![New address name](/assets/images/receive-5.jpg){:width="32%"}](/assets/images/receive-5.jpg)
-[![Copy address](/assets/images/receive-6.jpg){:width="32%"}](/assets/images/receive-6.jpg)
+[![New address](/images/receive-4.jpg){:width="32%"}](/images/receive-4.jpg)
+[![New address name](/images/receive-5.jpg){:width="32%"}](/images/receive-5.jpg)
+[![Copy address](/images/receive-6.jpg){:width="32%"}](/images/receive-6.jpg)
 
 ### Monero accounts
 

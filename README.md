@@ -24,7 +24,7 @@ Pages are located under `\docs`. Images are located under `\assets\images\`
 
 When linking images, follow a format like this:
 
-`[![Image name](/assets/images/image.jpg){:width="32%"}](/assets/images/image.jpg)`
+`[![Image name](/images/image.jpg){:width="32%"}](/images/image.jpg)`
 
 This will format the image to 1/3 of the width of the screen, and it will allow a user to click on the image to get a full-screen view.
 

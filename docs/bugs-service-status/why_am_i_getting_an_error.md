@@ -9,19 +9,19 @@ parent: Bugs and service status
 
 This error means that your Available balance is locked.  After the Monero blockchain confirmed your change, you will be able to send the rest of your XMR.  
 
-[![Not enough money](/assets/images/error1.jpg)](/assets/images/error1.jpg)
+[![Not enough money](/images/error1.jpg)](/images/error1.jpg)
 
 ### Error: the wallet is not synced  
 
 This error means that your wallet is synchronizing. Please leave the wallet open and wait until it has synchronized. If you are having trouble with sync speed, you may need to connect to a WiFi network, rather than using data. If the sync state is stuck on a specific amount of blocks remaining for an extended period of time, open the menu in the top-right, tap "Nodes", and select a node with a green dot to the right of it.
 
-[![Wallet not synced](/assets/images/error2.jpg)](/assets/images/error2.jpg)
+[![Wallet not synced](/images/error2.jpg)](/images/error2.jpg)
 
 ### New Wallet Exception: Format exception: Unexpected extension byte   
 
 You may have gotten this error while restoring a wallet. Please make sure that you input the entire seed/recovery phrase (25 for XMR, 12 for Bitcoin (Electrum)).
 
-[![Unexpected extension byte](/assets/images/error3.jpg)](/assets/images/error3.jpg)
+[![Unexpected extension byte](/images/error3.jpg)](/images/error3.jpg)
 
 ### Trade not created error: None of the provided exchanges can make this exchange
 

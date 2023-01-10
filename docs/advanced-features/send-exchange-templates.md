@@ -11,6 +11,6 @@ You can use templates for your most common transactions. To create a new templat
 
 You can create templates using a set cryptocurrency amount (eg: 1.23 XMR), or an approximate fiat amount (eg: $123.45).
 
-[![New template](/assets/images/send-4.jpg){:width="32%"}](/assets/images/send-4.jpg)
-[![Fill in template](/assets/images/send-5.jpg){:width="32%"}](/assets/images/send-5.jpg)
-[![Click template](/assets/images/send-6.jpg){:width="32%"}](/assets/images/send-6.jpg)
+[![New template](/images/send-4.jpg){:width="32%"}](/images/send-4.jpg)
+[![Fill in template](/images/send-5.jpg){:width="32%"}](/images/send-5.jpg)
+[![Click template](/images/send-6.jpg){:width="32%"}](/images/send-6.jpg)

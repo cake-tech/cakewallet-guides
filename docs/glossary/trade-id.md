@@ -11,6 +11,6 @@ In Cake Wallet, you can find a Trade ID on the Trade Details screen.
 
 Swipe right to left from the main balance screen to find the transaction history. Tap on an exchange and you will see the Trade Details screen. The Trade ID will be at the very top.
 
-[![Swipe right to left](/assets/images/id-1.jpg){:width="32%"}](/assets/images/id-1.jpg)
-[![ChangeNOW trade](/assets/images/id-4.jpg){:width="32%"}](/assets/images/id-4.jpg)
-[![Trade ID](/assets/images/id-5.jpg){:width="32%"}](/assets/images/id-5.jpg)
+[![Swipe right to left](/images/id-1.jpg){:width="32%"}](/images/id-1.jpg)
+[![ChangeNOW trade](/images/id-4.jpg){:width="32%"}](/images/id-4.jpg)
+[![Trade ID](/images/id-5.jpg){:width="32%"}](/images/id-5.jpg)

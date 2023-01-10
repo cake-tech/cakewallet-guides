@@ -24,8 +24,8 @@ Your seed is just a version of your private key written in a way that’s easier
 
 Go to the menu at the top-right, click on `Show seed/keys` and enter your PIN. On the next screen, you will see your wallet's seed and keys. Cake Wallet has 1 set of these per wallet, so you must save them all individually.
 
-[![Click hamburger menu](/assets/images/seed-1.jpg){:width="32%"}](/assets/images/seed-1.jpg)
-[![Click "Show seed/keys"](/assets/images/seed-2.jpg){:width="32%"}](/assets/images/seed-2.jpg)
-[![Wallet seed/keys screen](/assets/images/seed-3.jpg){:width="32%"}](/assets/images/seed-3.jpg)
+[![Click hamburger menu](/images/seed-1.jpg){:width="32%"}](/images/seed-1.jpg)
+[![Click "Show seed/keys"](/images/seed-2.jpg){:width="32%"}](/images/seed-2.jpg)
+[![Wallet seed/keys screen](/images/seed-3.jpg){:width="32%"}](/images/seed-3.jpg)
 
  If you want to copy your seed/keys, just tap on each of them. **DO NOT show your seed/keys to anyone.** Your funds will likely be stolen if you give out either. Please write down your seed/keys, however, and store it in a safe place. This will allow you to restore your wallet if you lose your device, or otherwise cannot access the wallet.
