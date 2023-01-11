@@ -3,7 +3,9 @@ title: "Restore/recover a wallet from the backup file"
 parent: Basic features
 ---
 
-# How do I restore/recover a wallet from the backup file?  
+# How do I restore/recover a wallet from the backup file?
+
+To create a backup file, [click here](/docs/basic-features/create-backup)
 
 ## Step 1  
 

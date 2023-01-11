@@ -5,7 +5,7 @@ parent: Basic features
 
 # Create backup
 
-A Cake Wallet backup will copy over all wallets and settings to a fresh Cake Wallet installation. This new restore wallet can't have any existing wallets.
+A Cake Wallet backup will copy over all wallets and settings to a fresh Cake Wallet installation. This new restore wallet can't have any existing wallets. To restore from a backup, [click here](/docs/basic-features/restore-wallet-from-backup).
 
 ## Step 1
 
