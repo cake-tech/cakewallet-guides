@@ -42,10 +42,10 @@ To confirm the trade, press "Confirm". After that, you will see the trade detail
 
 Cake Wallet's exchange providers support dozens of different cryptocurrency pairs. Each pair is subject to availability and occasional maintenance. For additional pairs, please visit [Monero.com](https://monero.com/exchange).
 
-### Supported "Convert from" assets
+### Supported assets
 
-| Ticker | Name | Blockchain (Tag) |
-| --- | --- | --- |
+| Ticker | Name | Blockchain (Tag) | Notes |
+| --- | --- | --- | --- |
 | ADA | Cardano | Native |
 | APE | ApeCoin | ETH |
 | AVAX | Avalanche | C-CHAIN |
@@ -55,57 +55,41 @@ Cake Wallet's exchange providers support dozens of different cryptocurrency pair
 | BTT | BitTorrent | BSC |
 | DAI | Dai | ETH |
 | DASH | Dash | Native |
+| DCR | Decred | Native |
 | DOGE | Dogecoin | Native |
 | EOS | EOS | Native |
 | ETH | Ethereum | Native |
 | FIRO | FIRO | Native |
+| MANA | Decentraland | ETH |
+| MATIC | Polygon | ETH |
+| MATIC | Polygon | POLY |
+| MKR | Maker | ETH |
+| NEAR | NEAR Protocol | Native |
 | HBAR | Hedera | Native |
+| KMD | Komodo | Native |
 | LTC | Litecoin | Native |
+| OXT | Orchid | ETH |
+| PAXG | Pax Gold | ETH |
+| PIVX | PIVX | Native |
+| RUNE | Thorchain | Native |
+| RVN | Ravencoin | Native |
 | SC | Siacoin | Native |
+| SCRT | Secret Network | Native |
 | SOL | Solana | Native |
+| STX | Stacks | Native |
 | TRX | Tron | Native |
 | TZEC | Zcash Transparent | ZEC |
+| UNI | Uniswap | ETH |
 | USDC | USD Coin | ETH |
+| USDC | USD Coin | POLY |
 | USDC | USD Coin | SOL |
 | USDT | Tether | ETH |
 | USDT | Tether | OMNI |
 | USDT | Tether | TRX |
 | XHV | Haven | Native |
-| XLM | Stellar Lumens | Native |
+| XLM | Stellar Lumens | Native | Convert from only |
 | XMR | Monero | Native |
-| XRP | Ripple | Native |
+| XRP | Ripple | Native | Convert from only |
 | XVG | Verge | Native |
 | ZEN | Horizen | Native |
-
-### Supported "Convert to" assets
-
-| Ticker | Name | Blockchain (Tag) |
-| --- | --- | --- |
-| ADA | Cardano | Native |
-| APE | ApeCoin | ETH |
-| AVAX | Avalanche | C-CHAIN |
-| BCH | Bitcoin Cash | Native |
-| BNB | Binance Coin | BSC |
-| BTC | Bitcoin | Native |
-| BTT | BitTorrent | BSC |
-| DAI | Dai | ETH |
-| DASH | Dash | Native |
-| DOGE | Dogecoin | Native |
-| EOS | EOS | Native |
-| ETH | Ethereum | Native |
-| FIRO | FIRO | Native |
-| HBAR | Hedera | Native |
-| LTC | Litecoin | Native |
-| SC | Siacoin | Native |
-| SOL | Solana | Native |
-| TRX | Tron | Native |
-| TZEC | Zcash Transparent | ZEC |
-| USDC | USD Coin | ETH |
-| USDC | USD Coin | SOL |
-| USDT | Tether | ETH |
-| USDT | Tether | OMNI |
-| USDT | Tether | TRX |
-| XHV | Haven | Native |
-| XMR | Monero | Native |
-| XVG | Verge | Native |
-| ZEN | Horizen | Native |
+| ZZEC | Zcash Shielded | ZEC | Sapling only |

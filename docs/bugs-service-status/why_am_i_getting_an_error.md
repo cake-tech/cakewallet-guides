@@ -35,7 +35,7 @@ This could be because of any/all of the following:
 4. An exchange is announcing the best rate, but that exchange is unable to offer that pair when attempting to proceed.
 5. No exchanges offer this specific pair. This is unlikely except for extremely uncommon pairs.
 
-We recommend going one-by-one through all the exchanges to see if that solves the issue. If you notice that an exchange advertises rates that it does not actually offer, please contact Cake Wallet support to let us know! This is a known issue for ZZEC pairs in Cake Wallet version 4.4.6 and Monero.com version 1.1.0; you must manually enable ShapeShift only for these trades. We plan to address this ASAP.
+We recommend going one-by-one through all the exchanges to see if that solves the issue. If you notice that an exchange advertises rates that it does not actually offer, please contact Cake Wallet support to let us know!
 
 ### Error: Exception for Cake Pay
 
