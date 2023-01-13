@@ -8,9 +8,9 @@ parent: Cake Pay
 
 ## Contacting Support
 
-If you need to contact Cake Pay support, please email [support@cakewallet.com](mailto:support@cakewallet.com).
+If you need to contact Cake Pay support, please email [support@cakewallet.com](mailto:support@cakepay.com).
 
-Please clearly indicate if the support request is related to Cake Pay Web.
+Please clearly indicate that the support request is related to Cake Pay Web.
 
 YOU MUST CONTACT US FROM THE **SAME** EMAIL THAT YOU USED TO MAKE AN ACCOUNT.
 
@@ -20,9 +20,11 @@ If you need to make a Cake Pay **Web** refund request, please email [support@cak
 
 Cake Pay support should reach out (only from an `@cakewallet.com` or `@cakepay.com` email address) if they need more information. Keep an eye on the email you used for Cake Pay.
 
+Cake Pay Web only issues refunds in select cases.
+
 ## How long does it take to receive a gift card?
 
-Most merchant cards will arrive quickly, but it could take hours or days depending on the merchant provider. Cake Pay Web is slower in general than Cake Pay Mobile. Make sure to save your order ID to get faster support!
+Most merchant cards will arrive within 1 hour, but it can take 1 business day or longer in rare cases. Cake Pay Web is slower in general than Cake Pay Mobile. Make sure to save your order ID to get faster support!
 
 ## Can Cake Pay Web be used outside of the United States?
 
@@ -30,9 +32,15 @@ Yes, Cake Pay Web is available in 140+ countries, including the United States!
 
 Cake Pay Web is available in these countries and regions (subject to change): Algeria, American Samoa, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belgium, Belize, Bermuda, Bhutan, Bolivia, Botswana, Bouvet Island, Brazil, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Cabo Verde, Cameroon, Canada, Caribbean Netherlands, Chile, China, Christmas Island, Cocos (Keeling) Islands, Colombia, Cook Islands, Costa Rica, Croatia, Curaçao, Cyprus, Czech Republic, Denmark, Djibouti, Dominica, Ecuador, Egypt, El Salvador, Estonia, Ethiopia, Falkland Islands, Faroe Islands, Federated States of Micronesia, Fiji, Finland, France, French Guiana, French Polynesia, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guyana, Heard Island and McDonald Islands, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kiribati, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malawi, Malaysia, Malta, Martinique, Mauritania, Mayotte, Mexico, Monaco, Montserrat, Morocco, Netherlands, New Zealand, Niger, Nigeria, Niue, Norfolk Island, Northern Mariana Islands, Norway, Oman, Palau, Peru, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Saudi Arabia, Singapore, Slovak Republic, Slovenia, Solomon Islands, South Africa, South Korea, Spain, Sri lanka, Sweden, Switzerland, Taiwan, Thailand, Tonga, Turkey, Turkmenistan, Tuvalu, UAE, UK, Uruguay, USA, Vanuatu, Vatican City, Vietnam, Virgin Islands (U.S.)
 
+This list is subject to change.
+
 ## Why does Cake Pay need my email address?
 
 Your email serves as a convenient way to provide support.
+
+## Why do I need to log in just to view the merchants?
+
+We know, this sucks. Sadly, it's the only way we are allowed to operate this service. We will drop the login requirement if we can.
 
 ## Do I need to provide other information to third-parties to use my purchased products?
 

@@ -8,9 +8,9 @@ parent: Cake Pay
 
 ## Contacting Support
 
-If you need to contact Cake Pay support, please email [support@cakewallet.com](mailto:support@cakewallet.com) or [message us on Telegram](https://t.me/cakewallet_bot).
+If you need to contact Cake Pay support, please email [support@cakewallet.com](mailto:support@cakepay.com) or [message us on Telegram](https://t.me/cakewallet_bot).
 
-Please clearly indicate if the support request is related to Cake Pay Mobile.
+Please clearly indicate that the support request is related to Cake Pay Mobile.
 
 ## Refund Requests
 
