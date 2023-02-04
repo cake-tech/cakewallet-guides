@@ -18,7 +18,7 @@ Follow these steps to change the network fee in settings:
 1. Click on the hamburger menu in the upper right of the home screen, or swipe right to left from the edge of the screen.
 2. Click "Settings".
 3. Click "Fee priority".
-4. Select your perferred option.
+4. Select your preferred option.
 
 ## Change the network fee in the Send screen
 

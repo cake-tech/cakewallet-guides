@@ -21,7 +21,7 @@ Input the receiving address (using the paste button, scanning QR code, or using 
 
 [![Add amount and address](/images/exchange4.jpg){:width="32%"}](/images/exchange4.jpg)
 [![Save trade ID](/images/exchange5.jpg){:width="32%"}](/images/exchange5.jpg)
-[![Confrim sending](/images/exchange6.jpg){:width="32%"}](/images/exchange5.jpg)
+[![Confirm sending](/images/exchange6.jpg){:width="32%"}](/images/exchange5.jpg)
 
 ### Step 3
 
