@@ -50,6 +50,10 @@ You can view past history by navigating to the Cake Pay section of Cake Wallet. 
 
 You can view past history by navigating to the Cake Pay section of Cake Wallet. Click your user icon in the top right hand corner of the app. You will see a button that will take you to your active and redeemed cards. Your unredeemed code will be under the "Active" tab.
 
+## What cryptocurrencies can I pay with?
+
+You can pay with Bitcoin, Monero, and Litecoin.
+
 ## Groupon purchase
 
 Groupon has a simple checkout page that does not include the option for a gift code. To redeem a gift code, put your mouse cursor over your account name, and select "Redeem Gift Card" from the drop-down box.

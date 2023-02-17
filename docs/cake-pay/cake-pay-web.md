@@ -77,3 +77,7 @@ Cake Wallet uses a different fiat API endpoint than the Cake Pay Web endpoint. T
 ## What are the Cake Pay Web terms and conditions?
 
 View the full Cake Pay Web terms and conditions [here](https://cakepay.com/cakepay-web-terms.txt).
+
+## What cryptocurrencies can I pay with?
+
+You can pay with Bitcoin and Monero natively. You can use the Trocador plugin to pay with other cryptocurrencies. Using this plugin may require manual processing, so expect an extra business day for processing.

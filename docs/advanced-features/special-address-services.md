@@ -11,6 +11,16 @@ Cake Wallet supports sending to common address services in addition to standard 
 
 Cake Wallet has full support for sending to OpenAlias addresses. Simply type the OpenAlias string in the  `Send` screen.
 
+To add OpenAlias records, go to your DNS provider, and add TXT records as follows (replace `[]` with your relevant info):
+
+For XMR: `“oa1:xmr recipient_address=[]; recipient_name=[]; tx_description=[];”`
+
+For BTC: `“oa1:btc recipient_address=[]; recipient_name=[]; tx_description=[];”`
+
+For LTC: `“oa1:ltc recipient_address=[]; recipient_name=[]; tx_description=[];”`
+
+You will need to enable DNSSEC, or else someone could try to impersonate you. We recommend using a host name such as "donate" or your name/pseudonym, but this is optional.
+
 ## Twitter
 
 Cake Wallet allows you to type in a Twitter username (eg: `@monerocom`) in the `Send` screen. If that user has a correctly-formatted address in their Twitter bio for the relevant cryptocurrency, then the wallet will display that address. If this process does not work, make sure the address in the bio is valid and the correct length.
