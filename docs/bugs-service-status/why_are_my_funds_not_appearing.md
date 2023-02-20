@@ -13,6 +13,8 @@ If you see "XXXX blocks remaining" this means that your wallet is still synchron
 
 [![Syncing](/images/funds-2.jpg)](/images/funds-2.jpg)
 
+If the wallet says "Synchronized" at the top and you don't see your transactions, first try force closing and re-opening your Bitcoin or Litecoin wallet, which forces a rescan.
+
 ### I did not receive funds from an exchange  
 
 If you created an exchange using the built-in exchange within the Cake Wallet app and are not seeing your expected balance, go to the Trade Details screen and check the status of the exchange. If your status is "Waiting" or "Fetching", this means that your trade is processing. Please wait.
@@ -21,4 +23,4 @@ If the status is "Finished", and your wallet is synchronized, please contact our
 
 ### I did not receive funds from another wallet
 
-If you see an incoming transaction and your "Available Balance" and "Full Balance" differ, please wait for up to ~20 minutes while your transaction is confirmed on the Monero blockchain. Or, wait for 3 confirmations on the Bitcoin blockchain. If your wallet is synchronized, and the incoming transaction is not displaying, please contact our support team at [support@cakewallet.com](mailto:support@cakewallet.com).  
+If you see an incoming transaction and your "Available Balance" and "Full Balance" differ, please wait for up to ~20 minutes while your transaction is confirmed on the Monero blockchain. Or, wait for 3 confirmations on the Bitcoin blockchain. If your wallet is synchronized, and the incoming transaction is not displaying, please contact our support team at [support@cakewallet.com](mailto:support@cakewallet.com).
