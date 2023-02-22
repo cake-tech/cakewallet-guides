@@ -18,3 +18,15 @@ You can disable this when creating a new wallet, or in Privacy settings.
 Cake Wallet allows you to disable the cryptocurrency exchange feature, which uses third-party servers if opened.
 
 You can disable this when creating a new wallet, or in Privacy settings.
+
+## Disabling in settings
+
+`[![Privacy settings](/images/settings-privacy-1.jpg){:width="32%"}](/images/settings-privacy-1.jpg)`
+
+`[![Privacy settings](/images/settings-privacy-2.jpg){:width="32%"}](/images/settings-privacy-2.jpg)`
+
+## Disabling in Advanced Privacy Settings
+
+`[![Advanced Privacy Settings](/images/new-wallet-4-aps-1.jpg){:width="32%"}](/images/new-wallet-4-aps-1.jpg)`
+
+`[![Advanced Privacy Settings](/images/new-wallet-4-aps-2.jpg){:width="32%"}](/images/new-wallet-4-aps-2.jpg)`
