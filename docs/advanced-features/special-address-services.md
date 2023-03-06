@@ -21,7 +21,7 @@ For LTC: `“oa1:ltc recipient_address=[]; recipient_name=[]; tx_description=[];
 
 You will need to enable DNSSEC, or else someone could try to impersonate you. We recommend using a host name such as "donate" or your name/pseudonym, but this is optional.
 
-## Twitter
+## Twitter Bird Pay
 
 Cake Wallet allows you to type in a Twitter username (eg: `@monerocom`) in the `Send` screen. If that user has a correctly-formatted address in their Twitter bio for the relevant cryptocurrency, then the wallet will display that address. If this process does not work, make sure the address in the bio is valid and the correct length.
 
