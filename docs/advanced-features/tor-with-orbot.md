@@ -27,7 +27,7 @@ Tor is noticeably slower than clearnet, so some operations will take a super lon
 
 Some third-party services may not be available if you are using Tor. These may include:
 
-* Exchange
+* Exchange (some providers)
 * Buy
 * Sell
 
@@ -64,3 +64,7 @@ Our official onion node is:
 * Use SSL: (unticked)
 
 Please note that running your own node over clearnet is usually better (for *both* performance and privacy) than connecting to someone else's onion node. We recommend you run your own onion node!
+
+## Note on DNS
+
+We recommend manually setting a DNS provider that you trust in your Android / iOS operating system settings, especially if you only occasionally use Tor.

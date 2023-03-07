@@ -23,7 +23,7 @@ You will need to enable DNSSEC, or else someone could try to impersonate you. We
 
 ## Twitter Bird Pay
 
-Cake Wallet allows you to type in a Twitter username (eg: `@monerocom`) in the `Send` screen. If that user has a correctly-formatted address in their Twitter bio for the relevant cryptocurrency, then the wallet will display that address. If this process does not work, make sure the address in the bio is valid and the correct length.
+Cake Wallet allows you to type in a Twitter username (eg: `@monerocom`) in the `Send` screen. If that user has a correctly-formatted address in their Twitter bio or pinned Tweet for the relevant cryptocurrency, then the wallet will display that address. If this process does not work, make sure the address in the bio is valid and the correct length.
 
 If (and only if) you type in a Twitter username, then your wallet will communicate directly with the Twitter API.
 
