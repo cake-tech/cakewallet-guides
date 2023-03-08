@@ -9,7 +9,7 @@ We strongly recommend running your own Monero node! Here is a simple guide for r
 
 ## Select hardware
 
-You don't need fancy hardware to run a node that only is meant to handle your basic personal use, but we recommend the following:
+You don't need fancy hardware to run a node that is only meant to handle your basic personal use, but we recommend the following:
 
 * At least 256 GB of storage on an SSD
 * At least dual core, ideally quad core
@@ -111,4 +111,4 @@ sudo apt-get update && sudo apt-get upgrade -y
 
 ## Credits
 
-Thanks to SethforPrivacy for their [node guide](https://sethforprivacy.com/guides/run-a-monero-node/) and their [Docker image](https://hub.docker.com/r/sethsimmons/simple-monerod).
+Thanks to Seth for Privacy for their [node guide](https://sethforprivacy.com/guides/run-a-monero-node/) and their [Docker image](https://hub.docker.com/r/sethsimmons/simple-monerod).

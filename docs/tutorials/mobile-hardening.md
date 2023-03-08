@@ -15,7 +15,7 @@ Some people prefer using an operating system such as [CalyxOS](https://calyxos.o
 
 If you are overwhelmed, start with a modern, factory reset phone from Apple or Google that is still getting software updates. Don't let perfection get in the way of at least starting there.
 
-Avoid using a SIM if you can. Otherwise, get a SIM from [Silent Link](https://silent.link/), [Mint Mobile](https://www.mintmobile.com/) (prepaid credit picked up in store), or [Twilio](https://www.twilio.com/en-us/iot/super-sim-card) (advanced and out of scope for this guide).
+Avoid using a SIM if you can. Otherwise, get a SIM from [Silent Link](https://silent.link/), [Mint Mobile](https://www.mintmobile.com/) (prepaid card picked up in store), or [Twilio](https://www.twilio.com/en-us/iot/super-sim-card) (advanced and out of scope for this guide).
 
 ## Configure phone security settings
 
@@ -76,7 +76,7 @@ For Monero, we recommend syncing to your own node over **clearnet** for practica
 
 We recommend sending through your own node. This can be done over clearnet or Tor. If you use someone else's node, we recommend using Tor.
 
-It's convenient to have spot fiat pricing data, so we recommend turning on Orbot after your wallet is synced and using the "Tor only" fiat API setting. Sending transactions over Tor is slower than clearnet, but it's not unbearably slow.
+It's convenient to have fiat spot pricing data, so we recommend turning on Orbot after your wallet is synced and using the "Tor only" fiat API setting. Sending transactions over Tor is slower than clearnet, but it's not unbearably slow.
 
 ## Exchanging
 
