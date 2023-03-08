@@ -30,7 +30,7 @@ The University of Texas at Austin has good phone hardening guides:
 
 ### Custom DNS provider
 
-You may want to change your DNS provider in your phone to one you trust. Common privacy-friendly DNS providers are [IVPN](https://www.ivpn.net/knowledgebase/troubleshooting/what-is-the-ip-address-of-your-dns-servers/) and [1.1.1.1](https://1.1.1.1/) (Cloudflare).
+You may want to change your DNS provider in your phone to one you trust. Common privacy-friendly DNS providers are [IVPN](https://www.ivpn.net/knowledgebase/troubleshooting/what-is-the-ip-address-of-your-dns-servers/) and [1.1.1.1](https://1.1.1.1/) (Cloudflare), or using InviZible Pro (more on that later).
 
 ## Install applications
 
@@ -38,6 +38,7 @@ You generally will want a few apps:
 
 * **[Cake Wallet](https://cakewallet.com) and/or [Monero.com](https://monero.com)**. Obviously :)
 * **[Orbot](https://guardianproject.info/apps/org.torproject.android/)**. This is your mobile gateway to Tor.
+* **[InviZible Pro](https://invizible.net)** (Android only). This is an alternative to Orbot that will automatically handle Tor/onion connections and clearnet connections simultaneously.
 * **VPN**. You may wish to use a VPN. Choose one recommended by [Privacy Guides](https://www.privacyguides.org/en/vpn/). Pay with XMR. VPNs have [limitations](https://www.consumerreports.org/vpn-services/vpn-testing-poor-privacy-security-hyperbolic-claims-a1103787639/).
 
 You can install apps from your phone's respective app store or from their APKs.
@@ -64,20 +65,32 @@ We have a guide for running your own Monero node [here](/docs/tutorials/monero-n
 
 If you are running your own node, you can connect to it without needing Tor, which allows for significantly faster syncing.
 
-We recommend using your own **clearnet** node in most cases. This way, you can turn off Orbot, sync the Monero blockchain quickly, then turn Orbot on after it is synced and you are ready to send or exchange your Monero. Learn more about [using Tor with Cake Wallet](/docs/advanced-features/tor-with-orbot).
+We recommend using **your own clearnet** node in most cases for best performance. Learn more about [using Tor with Cake Wallet](/docs/advanced-features/tor-with-orbot).
 
 You can change these settings later in "Privacy settings" and "Connection and sync".
 
-## Syncing
+## Using Orbot
 
-For Monero, we recommend syncing to your own node over **clearnet** for practical purposes. Disable Tor with Orbot for syncing. If you must use a different node, you can sync entirely over Tor, but it will take a *long* time for more than a few days of blocks (hours / days).
+### Syncing
 
-## Sending
+For Monero, we recommend syncing to **your own clearnet** node for practical purposes. Disable Tor with Orbot for syncing. If you must use a different node, you can sync entirely over Tor, but it will take a *long* time for more than a few days of blocks (hours / days).
+
+If you are using iOS, we recommend force closing Cake Wallet before switching to enable/disable Orbot to reduce the chance of [iOS VPN leaks](https://protonvpn.com/blog/apple-ios-vulnerability-disclosure/).
+
+### Sending
 
 We recommend sending through your own node. This can be done over clearnet or Tor. If you use someone else's node, we recommend using Tor.
 
 It's convenient to have fiat spot pricing data, so we recommend turning on Orbot after your wallet is synced and using the "Tor only" fiat API setting. Sending transactions over Tor is slower than clearnet, but it's not unbearably slow.
 
-## Exchanging
+### Exchanging
 
 We recommend exchanging using the "Tor only" setting. Exchanging over Tor has reasonably good performance. After your wallet shows as "Synchronized" at the top of the home page, enable Tor with Orbot.
+
+## Using InviZible Pro
+
+Run InviZible Pro with Tor turned on. Configure Cake Wallet with **your own clearnet** node.
+
+This will send Tor/onion requests for the fiat and exchange APIs through Tor, while allowing clearnet connections for communicating with your own node.
+
+We do not recommend sending transactions over the clearnet to someone else's node.
