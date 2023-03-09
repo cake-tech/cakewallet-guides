@@ -28,6 +28,13 @@ The University of Texas at Austin has good phone hardening guides:
 * [Google Android](https://security.utexas.edu/handheld-hardening-checklists/android)
 * [Apple iOS](https://security.utexas.edu/handheld-hardening-checklists/ios)
 
+On Android, it is recommended to perform the following additional steps after enabling a IVPN, Orbot, Invizible Pro, etc.
+
+1. Open Android Settings
+2. Search for `VPN` and open the `VPN` or `More connections` setting from the search results.
+3. Either tap the gear next to the in-use VPN, or tap and hold > edit it
+4. Enable the toggles for `Always-on VPN` and `Only allow connections through this VPN`
+
 ### Custom DNS provider
 
 You may want to change your DNS provider in your phone to one you trust. Common privacy-friendly DNS providers are [IVPN](https://www.ivpn.net/knowledgebase/troubleshooting/what-is-the-ip-address-of-your-dns-servers/) and [1.1.1.1](https://1.1.1.1/) (Cloudflare), or using InviZible Pro (more on that later).
@@ -55,7 +62,7 @@ We have a guide for running your own Monero node [here](/docs/tutorials/monero-n
 2. On wallet setup, click "Advanced Privacy Settings"
 3. Change the Fiat API and Exchange settings from "Enabled" to "Tor only" (recommended) or "Disabled"
 4. Add a custom node
-    * We recommend adding your **own** node here.
+    * We recommend adding **your own clearnet** node here.
     * Alternatively, use our Monero onion node:
         * Node Address: `cakexmrl7bonq7ovjka5kuwuyd3f7qnkz6z6s6dmsy3uckwra7bvggyd.onion`
         * Node port: `18081`
@@ -70,6 +77,8 @@ We recommend using **your own clearnet** node in most cases for best performance
 You can change these settings later in "Privacy settings" and "Connection and sync".
 
 ## Using Orbot
+
+You will need to use Orbot in full device VPN mode. You will want to toggle off Tor while syncing, but enable it for sending transactions.
 
 ### Syncing
 
@@ -89,8 +98,21 @@ We recommend exchanging using the "Tor only" setting. Exchanging over Tor has re
 
 ## Using InviZible Pro
 
-Run InviZible Pro with Tor turned on. Configure Cake Wallet with **your own clearnet** node.
+Use InviZible Pro for simultaneous encrypted DNS for clearnet + Tor for .onion connections.
 
-This will send Tor/onion requests for the fiat and exchange APIs through Tor, while allowing clearnet connections for communicating with your own node.
+1. Install and run InviZible Pro
+2. Enable the toggles on Invizible's homescreen for `Hide IP with Tor` and `Protect DNS with DNSCRYPT` and tap `Start`.
+3. Open the Menu and select `Fast Settings`
+4. Turn on `Start on boot` toggles for DNSCrypt and Tor
+5. Turn off `Route all traffic through Tor`. If you leave this on, then all traffic will go through Tor and wallet syncing will be very slow.
+6. (Optional) Use the `Select DNSCrypt servers` setting (located just above the setting from #5) to change the preselected DNS server(s) to those of your choosing.
 
-We do not recommend sending transactions over the clearnet to someone else's node.
+Configuring Cake Wallet for use with Invizible
+
+1. Open "Menu > Connection and Sync"
+2. Add and select a Trusted Clearnet Node (recommended that you use your own node, or one where you personally know and trust the operator)
+3. Open "Menu > Privacy Settings" and ensure Tor only is selected for Fiat-api and Exchange
+
+This will send Tor/onion requests for exchange rates and exchanges APIs through Tor, while allowing clearnet connections for communicating with your own node.
+
+We do not recommend sending transactions over the clearnet to someone else’s node.
