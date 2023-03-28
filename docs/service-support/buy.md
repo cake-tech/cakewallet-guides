@@ -12,6 +12,10 @@ Cake Wallet supports several third-party exchange integrations for your convenie
 
 We use an [Onramper](https://onramper.com) widget to display these Buy providers. If you have an issue with the widget itself, please contact Cake Wallet support.
 
+## Payfura
+
+[Email support](mailto:team@payfura.com){: .btn .btn-blue .mr-4 }
+
 ## Wyre
 
 [Submit support request](https://wyre-support.zendesk.com/hc/en-us/requests/new){: .btn .btn-blue }

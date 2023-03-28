@@ -27,6 +27,8 @@ Cake Wallet allows you to type in a Twitter username (eg: `@monerocom`) in the `
 
 If (and only if) you type in a Twitter username, then your wallet will communicate directly with the Twitter API.
 
+[![How to send crypto with Twitter using Cake Wallet Bird Pay](https://img.youtube.com/vi/dmj4HF8Q85Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=dmj4HF8Q85Q)
+
 ## Unstoppable Domains
 
 Cake Wallet has full support for sending to Unstoppable Domains addresses, including all TLDs and both Ethereum and Polygon domains. Simply type the domain in the  `Send` screen.

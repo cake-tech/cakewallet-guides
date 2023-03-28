@@ -21,3 +21,8 @@ SideShift recommends opening a support ticket by interacting with their Intercom
 ## SimpleSwap
 
 [Email support](mailto:support@simpleswap.io){: .btn .btn-blue }
+
+## Trocador
+
+[Email support](mailto:mail@trocador.app){: .btn .btn-blue .mr-4 }
+[Telegram support](https://t.me/TrocadorApp){: .btn .btn-blue }
