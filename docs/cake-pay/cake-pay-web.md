@@ -68,7 +68,7 @@ Cake Pay Web and Mobile are related but not exactly the same. They each communic
 
 ## Are there any limits?
 
-Yes, there are limits. A single user can purchase a maximum of $10,000 per day. You may run into other limits, and limits are subject to change.
+Yes, there are limits. A single user can purchase a maximum of $3,000 per day and $10,000 per month. You may run into other limits, and limits are subject to change. If you need higher limits, please [email Cake Pay support](mailto:support@cakepay.com).
 
 ## Why is Cake Wallet showing a slightly different fiat value than the Cake Pay invoice amount?
 
