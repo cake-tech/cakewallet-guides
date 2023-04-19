@@ -54,7 +54,7 @@ You can install apps from your phone's respective app store or from their APKs.
 
 For best privacy, you really should run your own Monero, Bitcoin, etc. nodes.
 
-We have a guide for running your own Monero node [here](/docs/tutorials/monero-node).
+We have a guide for running your own Monero node [here](https://guides.monero.com/docs/tutorials/monero-node).
 
 ## Using Cake Wallet for the first time
 
