@@ -21,9 +21,18 @@ Here you can find answers to the most common questions about Cake Wallet. If you
 
 ## General info
 
-Cake Wallet is a non-custodial wallet. This means that all information about your wallet stores on your device, and you, the user, are 100% in control of your wallet and your funds.
+Cake Wallet is a non-custodial wallet for mobile and desktop devices. This means that all information about your wallet stores on your device, and you, the user, are 100% in control of your wallet and your funds.
 
 Click on a page or search for what you need help with. Support is only a click or message away!
+
+## Installing Cake Wallet
+
+Don't have Cake Wallet yet? Download it today!
+
+* Apple App Store (iPhone, MacOS): [https://cakewallet.com/ios](https://cakewallet.com/ios)
+* Google Play: [https://cakewallet.com/gp](https://cakewallet.com/gp)
+* Android APK: [https://cakewallet.com/apk](https://cakewallet.com/apk)
+* Linux: [https://github.com/cake-tech/cake_wallet/releases](https://github.com/cake-tech/cake_wallet/releases)
 
 ## Cake Wallet service status
 
