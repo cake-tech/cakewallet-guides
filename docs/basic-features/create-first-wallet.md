@@ -36,7 +36,7 @@ Open the wallet application. You will see the option to create your first wallet
 
 You can choose a manual wallet name, or you can click the right icon to generate a random name. This can't be changed later.
 
-You will be asked to set an access PIN. This stays on your device. You can choose a 4 digit PIN by default, or you can click the text to change to a 6 digit PIN. You can enable biometric authentication later in settings.
+You will be asked to set an access PIN. This stays on your device. You can choose a 4 digit PIN by default, or you can click the text to change to a 6 digit PIN. You can enable biometric authentication later in settings. For Linux, you need to create a password.
 
 ## Write down your mnemonic seed!
 

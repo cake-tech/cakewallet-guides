@@ -17,7 +17,7 @@ Create a backup file by clicking the hamburger menu in the upper right, then `Se
 
 ## Step 3
 
-You will be prompted for your PIN or biometic authentication. When provided, you will be shown a securely-generated backup password.
+You will be prompted for your PIN, biometic authentication, or password. When provided, you will be shown a securely-generated backup password.
 
 **SAVE THIS PASSWORD**
 
