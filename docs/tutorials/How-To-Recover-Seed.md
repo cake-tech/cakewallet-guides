@@ -1,29 +1,31 @@
 ﻿---
-
-title: "I Lost My Seed - How To Recover Seed Phrase"
+title: "How to find my seed phrase"
 parent: Tutorials
-
 ---
-Step-by-Step Guide to Accessing Your Crypto Wallet on Cake Wallet App
--
 
+# How to find your seed phrase in the Cake Wallet app
+
+{: .warning}
+NEVER share your seeds/keys with anyone! If you do, they can steal your funds. Always save your seeds in a safe place!
+
+You can follow these simple steps to find your seed phrase. This seed phase can be used to restore your funds in another wallet.
  
-1. Download and install the [Cake Wallet App](https://cakewallet.com/) on your device.
+1. Open Cake Wallet, which has an existing wallet. If you do not have an existing wallet, then [create one first](/docs/basic-features/create-first-wallet).
 
-2. Open Cake Wallet on your device.
+2. In the top right corner of the app, you will see a menu button. Click on the menu button.
 
-3. In the top right corner of the app, you will see a menu button. Click on the menu button. [![MainScreen](/images/MainScreen-MenuPoint.jpg){:width="32%"}](/images/image.jpg)
+[![MainScreen](/images/MainScreen-MenuPoint.jpg){:width="32%"}](/images/MainScreen-MenuPoint.jpg)
 
-4. From the menu options, select "Security and backup". [![Menu](/images/Menu-SecurityPoint.jpg){:width="32%"}](/images/image.jpg)
+3. From the menu options, select "Security and backup".
 
-5. Now choose "show seed/keys." [![SecurityMenu](/images/Security-SeedPoint.jpg){:width="32%"}](/images/image.jpg)
+[![Menu](/images/Menu-SecurityPoint.jpg){:width="32%"}](/images/Menu-SecurityPoint.jpg)
 
-6. You will be prompted to enter your wallet pin.
+4. Now choose "show seed/keys."
 
-7. Once you have successfully authenticated, your seed and keys will be displayed.
+[![SecurityMenu](/images/Security-SeedPoint.jpg){:width="32%"}](/images/Security-SeedPoint.jpg)
 
-8. You can now use your seed/keys to access your cryptocurrency wallet, make transactions, and manage your digital assets.
+5. You will be prompted to enter your wallet pin, password, or biometrics.
 
-  
+6. Once you have successfully authenticated, your seed and keys will be displayed.
 
-By following these steps, you can access your [crypto wallet](https://cakewallet.com/) on Cake Wallet quickly and easily. Make sure to keep your seed/keys safe and secure, and you'll be able to manage your digital assets with confidence.
+7. Your seed phrase can be restored in most other wallets, depending on asset type. For example, your Monero seed phrase can be restored in the [official Monero GUI](https://getmonero.org/downloads), and your Bitcoin/Litecoin seed phrases can be restored in Electrum.
