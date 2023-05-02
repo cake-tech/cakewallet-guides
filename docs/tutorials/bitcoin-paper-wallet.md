@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to create a Bitcoin paper wallet" 
 parent: Tutorials
 --- 
