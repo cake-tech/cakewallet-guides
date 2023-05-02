@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to find my seed phrase"
 parent: Tutorials
 ---
