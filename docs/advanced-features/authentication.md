@@ -9,7 +9,7 @@ Cake Wallet supports optional biometric authentication on supported devices. You
 
 ## Cake 2FA
 
-{. warning}
+{: .warning}
 Read this entire section carefully to understand the benefits and risks of the Cake 2FA feature. Cake 2FA is a **nontraditional TOTP implementation**, since there are no Cake Wallet servers to verify your app login attempts.
 
 In security settings, you can optionally enable Cake 2FA. **Cake 2FA serves as a secondary line of defense for your wallets, but it is a defense that is ONLY useful for casual cases. It will NOT protect your wallet from sophisticated attackers.**
@@ -28,7 +28,7 @@ Cake 2FA protects against these kinds of attacks:
 
 **You should assume that Cake 2FA provides some defense against basic attacks, but NO defense against sophisticated attackers. Your best defense against sophisticated attackers is an encrypted device.**
 
-{. warning}
+{: .warning}
 If you lose both your mnemonic seed and your TOTP code, then you will lose access to your funds! Always have a secure backup of your seed phrases!
 
 ## Brute force mitigations and remaining risks
