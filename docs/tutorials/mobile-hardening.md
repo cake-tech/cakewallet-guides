@@ -69,6 +69,7 @@ We have a guide for running your own Monero node [here](https://guides.monero.co
         * Login: (blank)
         * Password: (blank)
         * Use SSL: (unticked)
+5. We recommend enabling [Cake 2FA](/docs/advanced-features/authentication#cake-2fa).
 
 If you are running your own node, you can connect to it without needing Tor, which allows for significantly faster syncing.
 

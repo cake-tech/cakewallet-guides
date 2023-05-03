@@ -20,7 +20,9 @@ If your wallet is not fully synced, your wallet balance may be incorrect, and yo
 
 ### Monero subaddresses
 
-A Monero subaddress is a unique, unlinkable address that can be generated on-demand. Coins sent to it will still arrive in your main wallet, but the person sending the coins cannot determine your wallet's main address. To create a new subaddress, tap on `Accounts and subaddresses`, then tap on `Addresses` and create a name for this address, then tap `Create`. Subaddresses always start with `8`. Your main address starts with `4`.
+A Monero subaddress is a unique, unlinkable address that can be generated on-demand. Coins sent to it will still arrive in your main wallet, but the person sending the coins cannot determine your wallet's main address. Cake Wallet now automatically generates new subaddresses after they are used by default.
+
+If you want to manually manage your subaddresses, you can do so by going to privacy settings and disabling the "Auto generate subaddresses" feature. Then go to your receive screen. To create a new subaddress, tap on `Accounts and subaddresses`, then tap on `Addresses` and create a name for this address, then tap `Create`. Subaddresses always start with `8`. Your main address starts with `4`.
 
 [![New address](/images/receive-4.jpg){:width="32%"}](/images/receive-4.jpg)
 [![New address name](/images/receive-5.jpg){:width="32%"}](/images/receive-5.jpg)
@@ -28,9 +30,9 @@ A Monero subaddress is a unique, unlinkable address that can be generated on-dem
 
 ### Monero accounts
 
-Each Monero wallet can have several accounts. We recommend this feature for advanced users only. Within your Monero wallet, click `Receive`, then click `Accounts and subaddresses`. Click on `Accounts` to change between your different accounts. You can have unlimited accounts, and each account can have unlimited subaddresses. The first indexed address of each account (besides the main account) starts with an `8`.
+Each Monero wallet can have several accounts. We recommend this feature for advanced users only. Within your Monero wallet, click `Receive`, then click `Accounts` or `Accounts and subaddresses`. You may need to also click on `Accounts` to change between your different accounts. You can have unlimited accounts, and each account can have unlimited subaddresses. The first indexed address of each account (besides the main account) starts with an `8`.
 
-Balances and transactions for each Monero account are shown separately. While in one account, you can't see the balance and transactions of another account. You need to switch between accounts to see the balances and transactions of each.
+Balances and transactions for each Monero account are shown separately. While in one account, you can't see the balance and transactions of another account. You need to switch between accounts to see the balances and transactions of each. The balance of each account appears in the account list.
 
 ## View-only wallet
 
