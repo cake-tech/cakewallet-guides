@@ -51,7 +51,7 @@ The answer is that Cake Wallet users have a huge number of threat models. In our
 
 When Cake 2FA is enabled, it requires thieves to have a sophisticated technical understanding to be able to sensitively extract data from your device and to then manipulate that data with custom software.
 
-As TOTP becomes more and more common, we feel that it was important to provide users with a security option that closely meets the user experience that they are already familiar with. And despite its limitations, this TOTP implementation is more secure than a user-set PIN of `1234` (or any other 4-digit PIN).
+As TOTP becomes more and more common, we feel that it is important to provide users with a security option that closely meets the user experience that they are already familiar with. And despite its limitations, this TOTP implementation is more secure than a user-set PIN of `1234` (or any other 4-digit PIN).
 
 ## Enabling Cake 2FA
 
