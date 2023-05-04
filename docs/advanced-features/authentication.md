@@ -89,9 +89,9 @@ If you want to use your Yubikey, you can pair your Yubikey with [Yubico Authenti
 
 Support for different hash algorithms varies by TOTP user application, but the summary is that, even in 2023, [support for SHA256 and SHA512 is rare](https://wikipedia.org/wiki/Comparison_of_OTP_applications). We have left a migration path open so that we can seamlessly transition to SHA256, SHA512, or another algorithm once additional consumer applications support these.
 
-## Why are you using a 30 second code timeout period? Isn't a shorter timeout period such as 10 seconds safer?
+## Why are you using a 30 second code timeout period?
 
-A shorter code timeout period is safer in theory. However, using a time other than the default 30 seconds will lead to user experience issues. Users are more likely to come across blocked legitimate login attempts, and many TOTP user applications [do not support](https://wikipedia.org/wiki/Comparison_of_OTP_applications) a timeout period other than 30 seconds.
+Using a time other than the default 30 seconds will lead to user experience issues. Users are more likely to come across blocked legitimate login attempts, and many TOTP user applications [do not support](https://wikipedia.org/wiki/Comparison_of_OTP_applications) a timeout period other than 30 seconds.
 
 ## Why are you using a 6-digit code? Isn't an 8-digit code safer?
 
