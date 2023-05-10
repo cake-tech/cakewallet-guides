@@ -14,7 +14,7 @@ Read this entire section carefully to understand the benefits and risks of the C
 
 In security settings, you can optionally enable Cake 2FA. **Cake 2FA serves as a secondary line of defense for your wallets, but it is a defense that is ONLY useful for casual cases. It will NOT protect your wallet from sophisticated attackers.**
 
-When enabled, Cake 2FA requires a user to provide a [TOTP](https://wikipedia.org/wiki/Time-based_one-time_password) 6-digit code after successfully authenticating with their PIN or biometrics, every time that an authentication challenge is triggered.
+When enabled, Cake 2FA requires a user to provide a [TOTP](https://wikipedia.org/wiki/Time-based_one-time_password) 8-digit code after successfully authenticating with their PIN or biometrics, every time that an authentication challenge is triggered.
 
 Cake 2FA protects against these kinds of attacks:
 
@@ -37,7 +37,7 @@ In a typical TOTP implementation, a server maintains a user account that is prot
 
 In Cake Wallet, there are no servers that can serve this purpose. Thus, brute force prevention is extremely difficult, and there is no way to guarantee that the wallet app will be able to fully protect against brute force attempts.
 
-A casual attacker who is interacting with the unmodified Cake Wallet user interface will be unable to make enough guesses to reliably bypass the TOTP code. The Cake Wallet UI will restrict further login attempts for three minutes if there are three consecutive TOTP failures. Thus, for a 50% chance of success, a casual attacker will need to continuously type in codes this way for [over a year](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
+A casual attacker who is interacting with the unmodified Cake Wallet user interface will be unable to make enough guesses to reliably bypass the TOTP code. The Cake Wallet UI will restrict further login attempts for three minutes if there are three consecutive TOTP failures. Thus, for a 50% chance of success, a casual attacker will need to continuously type in codes this way for [over 200 years](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
 
 However, sophisticated attackers won't necessarily be limited by this UI. A sophisticated attacker could take the Cake Wallet files, export them, and then interact with them using custom software that bypasses these rate limits. If an attacker was able to fully bypass these limits, then the time to brute-force the TOTP code could be only [a matter of hours](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
 
@@ -51,7 +51,7 @@ The answer is that Cake Wallet users have a huge number of threat models. In our
 
 When Cake 2FA is enabled, it requires thieves to have a sophisticated technical understanding to be able to sensitively extract data from your device and to then manipulate that data with custom software.
 
-As TOTP becomes more and more common, we feel that it is important to provide users with a security option that closely meets the user experience that they are already familiar with. And despite its limitations, this TOTP implementation is more secure than a user-set PIN of `1234` (or any other 4-digit PIN).
+As TOTP becomes more and more common, we feel that it is important to provide users with a security option that closely meets the user experience that they are already familiar with. And despite its limitations, this TOTP implementation is more secure than a user-set PIN of `123456` (or any other 6-digit PIN).
 
 ## Enabling Cake 2FA
 
@@ -61,7 +61,7 @@ You will see a series of warnings. After understanding the limitations, click "S
 
 You will be presented with a QR code and a TOTP Secret Code. We recommend scanning the QR code with an open-source TOTP application on another device, but you can click to copy the code as well. When added to your desired TOTP app, click "Continue".
 
-You will be prompted to provide the 6-digit TOTP code. Type in the current code, then click "Continue".
+You will be prompted to provide the 8-digit TOTP code. Type in the current code, then click "Continue".
 
 If correct, you will be presented with a success message. A TOTP code will now be required in addition to your PIN, password, or biometrics every time there is an authentication challenge.
 
@@ -85,17 +85,21 @@ FIDO2 requires a server to communicate with. When you are logging into Cake Wall
 
 If you want to use your Yubikey, you can pair your Yubikey with [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/). This app requires you to have your Yubikey to display TOTP codes in the app.
 
-## Why are you using SHA1?
+## What TOTP applications do you recommend?
 
-Support for different hash algorithms varies by TOTP user application, but the summary is that, even in 2023, [support for SHA256 and SHA512 is rare](https://wikipedia.org/wiki/Comparison_of_OTP_applications). We have left a migration path open so that we can seamlessly transition to SHA256, SHA512, or another algorithm once additional consumer applications support these.
+We recommend the following: [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/) (requires Yubikey), [Bitwarden](https://bitwarden.com/pricing/) (requires premium account), [KeePassXC](https://keepassxc.org/) (free and open-source), and [Aegis](https://getaegis.app/) (free and open-source). Many common TOTP applications such as Google Authenticator, Microsoft Authenticator, and Authy are incompatible with Cake 2FA.
+
+## Why are you using SHA512? My app doesn't support SHA512.
+
+SHA1 is the most common implementation of TOTP, but SHA512 is safer, particularly for this nontraditional implementation. Thus, we have decided to choose the safer algorithm. This has the downside of not working with some common TOTP applications, such as Google Authenticator and Microsoft Authenticator.
 
 ## Why are you using a 30 second code timeout period?
 
-Using a time other than the default 30 seconds will lead to user experience issues. Users are more likely to come across blocked legitimate login attempts, and many TOTP user applications [do not support](https://wikipedia.org/wiki/Comparison_of_OTP_applications) a timeout period other than 30 seconds.
+Using a time other than the default 30 seconds will lead to user experience issues. Users are more likely to come across blocked legitimate login attempts, and many TOTP user applications [do not support](https://wikipedia.org/wiki/Comparison_of_OTP_applications) a timeout period other than 30 seconds. Further, shorter timeout periods do not increase security for this application.
 
-## Why are you using a 6-digit code? Isn't an 8-digit code safer?
+## Why are you using an 8-digit code? My app doesn't support 8-digit codes.
 
-Yes, longer codes are slightly safer to mitigate brute force risks. However, many TOTP user applications [do not support](https://wikipedia.org/wiki/Comparison_of_OTP_applications) 8-digit codes. Further, even 8-digit codes would be susceptible to brute force attacks by sophisticated attackers.
+6-digit codes are the most common implementation of TOTP, but 8-digit codes are safer, particularly for this nontraditional implementation. 8-digit codes are 100 times as difficult to brute-force than 60digit codes. Thus, we have decided to choose the safer digit length. This has the downside of not working with some common TOTP applications, such as Google Authenticator and Microsoft Authenticator.
 
 ## Will you support HOTP?
 
