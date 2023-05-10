@@ -29,10 +29,30 @@ Click on a page or search for what you need help with. Support is only a click o
 
 Don't have Cake Wallet yet? Download it today!
 
-* Apple App Store (iPhone, MacOS): [https://cakewallet.com/ios](https://cakewallet.com/ios)
-* Google Play: [https://cakewallet.com/gp](https://cakewallet.com/gp)
-* Android APK: [https://cakewallet.com/apk](https://cakewallet.com/apk)
-* Linux: [https://github.com/cake-tech/cake_wallet/releases](https://github.com/cake-tech/cake_wallet/releases)
+[iOS / MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542){: .btn .btn-blue .mr-4 }
+[Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet){: .btn .btn-blue .mr-4 }
+[Android APK](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue .mr-4 }
+[Linux](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue }
+
+### Linux installation guide
+
+Cake Wallet runs on most linux devices. We make a compressed folder (tar.gz) and Flatpack available for download. You can also build the wallet using our instructions.
+
+Example operating systems that are known to be working: Tails, Whonix, Ubuntu.
+
+#### Specifying a custom Linux file save location
+
+The default location for user save data (including wallets) is `~/Documents/cake_wallet`. This can be changed by running the following commands:
+
+```
+export CAKE_WALLET_DIR=[]
+export XDG_DATA_HOME=$CAKE_WALLET_DIR/preferences
+```
+Replace `[]` with your preferred file location. Run Cake Wallet from the same command line.
+
+### MacOS installation notes
+
+Cake Wallet is available on both Apple Silicon (eg: M1/M2) and Intel Macs.
 
 ## Cake Wallet service status
 
