@@ -36,7 +36,7 @@ Don't have Cake Wallet yet? Download it today!
 
 ### Linux installation guide
 
-Cake Wallet runs on most linux devices. We make a compressed folder (tar.gz) and Flatpack available for download. You can also build the wallet using our instructions.
+Cake Wallet runs on most linux devices. We make a compressed folder (tar.gz) and Flatpak available for download. You can also build the wallet using our instructions.
 
 Example operating systems that are known to be working: Tails, Whonix, Ubuntu.
 
