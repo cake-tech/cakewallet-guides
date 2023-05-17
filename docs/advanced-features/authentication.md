@@ -87,7 +87,7 @@ If you want to use your Yubikey, you can pair your Yubikey with [Yubico Authenti
 
 ## What TOTP applications do you recommend?
 
-We recommend the following: [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/) (requires Yubikey), [Bitwarden](https://bitwarden.com/pricing/) (requires premium account), [KeePassXC](https://keepassxc.org/) (free and open-source), and [Aegis](https://getaegis.app/) (free and open-source). Many common TOTP applications such as Google Authenticator, Microsoft Authenticator, and Authy are incompatible with Cake 2FA.
+We recommend the following: [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/) (requires Yubikey), [Bitwarden](https://bitwarden.com/pricing/) (requires premium account), [KeePassXC](https://keepassxc.org/) (free and open-source), [1Password](https://1password.com/) (paid and closed-source), and [Aegis](https://getaegis.app/) (free and open-source). Many common TOTP applications such as Google Authenticator, Microsoft Authenticator, and Authy are incompatible with Cake 2FA.
 
 ## Why are you using SHA512? My app doesn't support SHA512.
 
