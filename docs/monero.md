@@ -63,3 +63,15 @@ Monero addresses (unlike Bitcoin) are never stored on the blockchain. When you s
 Additionally, Cake Wallet can be configured to discard the Monero recipient address. In settings, untick `Save recipient address`. If you send XMR while this option is disabled, then addresses are no longer retained. The record of which address(es) you send to are lost forever.
 
 Disabling this feature is only recommended for advanced users who know what they're doing. Please leave it enabled if you are unsure.
+
+## Auto generate subaddresses
+
+In privacy settings, you can enable or disable the automatic generation of Monero subaddresses. This feature is enabled by default.
+
+When enabled:
+
+* You can still switch between different accounts.
+* For each account, it will display in the receive screen the first **unused** subaddress after the last manually labeled or the last used subaddress.
+* Your address book will be collapsed to only show one entry per account, which will be linked to the latest subaddress for the relevant account.
+
+You can disable this feature in settings. Doing so will restore the same functionality as before: you will need to manually label and switch to each subaddress.
