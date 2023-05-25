@@ -1,9 +1,9 @@
 ---
-title: "Restore/recover a wallet from keys or seed"
+title: "Restore wallet from keys or seed"
 parent: Basic features
 ---
 
-# How do I restore/recover a wallet from keys or seed? 
+# Restore/recover a wallet from keys or seed
 
 {: .warning}
 NEVER share your seeds/keys with anyone! If you do, they can steal your funds. Always save your seeds in a safe place!
@@ -16,9 +16,9 @@ Go to the menu at the top. Tap "Wallets", then "Restore Wallet”.
 [![Click wallets](/images/restore-2.jpg){:width="32%"}](/images/restore-2.jpg)
 [![Click restore wallet](/images/restore-3.jpg){:width="32%"}](/images/restore-3.jpg)
 
-## Step 2  
+## Step 2
 
-Choose wallet type: Monero, Bitcoin (Electrum), Litecoin (Electrum), or Haven.  
+Click `Restore from seed/keys`. Then choose the wallet type: Monero, Bitcoin (Electrum), Litecoin (Electrum), or Haven.  
 
 [![Choose wallet type](/images/restore-8.jpg){:width="32%"}](/images/restore-8.jpg)
 

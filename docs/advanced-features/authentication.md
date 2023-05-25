@@ -81,7 +81,7 @@ No, Cake 2FA is not a replacement for a multisig wallet. Well-designed multisig 
 
 ## Does this work with FIDO2 and my Yubikey?
 
-FIDO2 requires a server to communicate with. When you are logging into Cake Wallet, you don't talk to our (or anyone's) servers. Thus, FIDO2 doesn't really make sense for this application. Unless you want Cake to have a record of each time you access your wallet (we don't have, and we don't want, this info), we can't get around this.
+FIDO2 requires a server to communicate with. When you open Cake Wallet, you don't talk to our (or anyone's) servers. Thus, FIDO2 doesn't really make sense for this application. Unless you want Cake to have a record of each time you access your wallet (we don't have, and we don't want, this info), we can't get around this.
 
 If you want to use your Yubikey, you can pair your Yubikey with [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/). This app requires you to have your Yubikey to display TOTP codes in the app.
 
@@ -99,7 +99,7 @@ Using a time other than the default 30 seconds will lead to user experience issu
 
 ## Why are you using an 8-digit code? My app doesn't support 8-digit codes.
 
-6-digit codes are the most common implementation of TOTP, but 8-digit codes are safer, particularly for this nontraditional implementation. 8-digit codes are 100 times as difficult to brute-force than 60digit codes. Thus, we have decided to choose the safer digit length. This has the downside of not working with some common TOTP applications, such as Google Authenticator and Microsoft Authenticator.
+6-digit codes are the most common implementation of TOTP, but 8-digit codes are safer, particularly for this nontraditional implementation. 8-digit codes are 100 times as difficult to brute-force than 6-digit codes. Thus, we have decided to choose the safer digit length. This has the downside of not working with some common TOTP applications, such as Google Authenticator and Microsoft Authenticator.
 
 ## Will you support HOTP?
 

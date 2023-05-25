@@ -1,9 +1,9 @@
 ---
-title: "Restore/recover a wallet from the backup file"
+title: "Restore wallet from backup file"
 parent: Basic features
 ---
 
-# How do I restore/recover a wallet from the backup file?
+# Restore/recover a wallet from backup file
 
 To create a backup file, [click here](/docs/basic-features/create-backup)
 
