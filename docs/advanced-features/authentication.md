@@ -10,7 +10,7 @@ Cake Wallet supports optional biometric authentication on supported devices. You
 ## Cake 2FA
 
 {: .warning}
-Read this entire section carefully to understand the benefits and risks of the Cake 2FA feature. Cake 2FA is a **nontraditional TOTP implementation**, since there are no Cake Wallet servers to verify your app login attempts.
+Read this entire section carefully to understand the benefits and risks of the Cake 2FA feature. Cake 2FA is a **nontraditional TOTP implementation**, since there are no Cake Wallet servers to verify your app authentication attempts.
 
 In security settings, you can optionally enable Cake 2FA. **Cake 2FA serves as a secondary line of defense for your wallets, but it is a defense that is ONLY useful for casual cases. It will NOT protect your wallet from sophisticated attackers.**
 
@@ -37,7 +37,7 @@ In a typical TOTP implementation, a server maintains a user account that is prot
 
 In Cake Wallet, there are no servers that can serve this purpose. Thus, brute force prevention is extremely difficult, and there is no way to guarantee that the wallet app will be able to fully protect against brute force attempts.
 
-A casual attacker who is interacting with the unmodified Cake Wallet user interface will be unable to make enough guesses to reliably bypass the TOTP code. The Cake Wallet UI will restrict further login attempts for three minutes if there are three consecutive TOTP failures. Thus, for a 50% chance of success, a casual attacker will need to continuously type in codes this way for [over 200 years](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
+A casual attacker who is interacting with the unmodified Cake Wallet user interface will be unable to make enough guesses to reliably bypass the TOTP code. The Cake Wallet UI will restrict further authentication attempts for three minutes if there are three consecutive TOTP failures. Thus, for a 50% chance of success, a casual attacker will need to continuously type in codes this way for [over 200 years](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
 
 However, sophisticated attackers won't necessarily be limited by this UI. A sophisticated attacker could take the Cake Wallet files, export them, and then interact with them using custom software that bypasses these rate limits. If an attacker was able to fully bypass these limits, then the time to brute-force the TOTP code could be only [a matter of hours](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
 
@@ -95,7 +95,7 @@ SHA1 is the most common implementation of TOTP, but SHA512 is safer, particularl
 
 ## Why are you using a 30 second code timeout period?
 
-Using a time other than the default 30 seconds will lead to user experience issues. Users are more likely to come across blocked legitimate login attempts, and many TOTP user applications [do not support](https://wikipedia.org/wiki/Comparison_of_OTP_applications) a timeout period other than 30 seconds. Further, shorter timeout periods do not increase security for this application.
+Using a time other than the default 30 seconds will lead to user experience issues. Users are more likely to come across blocked legitimate authentication attempts, and many TOTP user applications [do not support](https://wikipedia.org/wiki/Comparison_of_OTP_applications) a timeout period other than 30 seconds. Further, shorter timeout periods do not increase security for this application.
 
 ## Why are you using an 8-digit code? My app doesn't support 8-digit codes.
 
