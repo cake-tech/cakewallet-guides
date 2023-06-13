@@ -44,9 +44,9 @@ We use an [Onramper](https://onramper.com) widget to display these Buy providers
 
 [Email support](mailto:support@utorg.pro){: .btn .btn-blue }
 
-## Transak
+## Transak 
 
-[Submit support request](https://support.transak.com/hc/en-us/requests/new){: .btn .btn-blue }
+Proceed to [Begin a live chat](https://support.transak.com/hc/en-us/requests/new) via chat bubble on screen.
 
 ## Itez
 
