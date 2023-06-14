@@ -46,7 +46,7 @@ We use an [Onramper](https://onramper.com) widget to display these Buy providers
 
 ## Transak
 
-[Submit support request](https://support.transak.com/hc/en-us/requests/new){: .btn .btn-blue }
+Proceed to [Begin a live chat](https://support.transak.com/hc/en-us/requests/new) via chat bubble on screen on the payment processor's website.
 
 ## Itez
 
