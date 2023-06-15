@@ -1,5 +1,5 @@
 ---
-title: "What do do if you have been scammed"
+title: "What to do if you have been scammed"
 parent: Tutorials
 ---
 
