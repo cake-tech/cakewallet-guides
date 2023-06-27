@@ -95,7 +95,7 @@ It's convenient to have fiat spot pricing data, so we recommend turning on Orbot
 
 ### Exchanging
 
-We recommend exchanging using the "Tor only" setting. Exchanging over Tor has reasonably good performance. After your wallet shows as "Synchronized" at the top of the home page, enable Tor with Orbot.
+We recommend exchanging using the "Tor only" setting. Exchanging over Tor has reasonably good performance. After your wallet shows as "SYNCHRONIZED" at the top of the home page, enable Tor with Orbot.
 
 ## Using InviZible Pro
 
