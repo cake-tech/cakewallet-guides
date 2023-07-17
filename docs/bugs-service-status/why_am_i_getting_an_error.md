@@ -58,3 +58,9 @@ If the issue persists for a wallet that has the private spend key (if it is NOT 
 This is a rare Monero wallet-deamon communication error. Please first try using a different node and restarting the app.
 
 You should also try turning off Tor or your VPN, and seeing if the issue persists.
+
+### Error: Invalid argument(s): Duplicate TxOut: <txid>:<number>
+
+This is a rare wallet issue for Bitcoin and Litecoin.
+
+First, please try force closing and restarting your app. If this does not address the issue, please save your mnemonic seed, then delete and [restore the wallet from seed](/docs/basic-features/restore-wallet-from-keys-or-seed/).
