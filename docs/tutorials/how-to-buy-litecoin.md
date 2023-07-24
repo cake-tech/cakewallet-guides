@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Easiest way to buy Litecoin (LTC)"
 parent: Tutorials
 ---
