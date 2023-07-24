@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Easiest way to buy Bitcoin (BTC)"
 parent: Tutorials
 ---
