@@ -1,18 +1,15 @@
-﻿
-
-
----
-title: "How to buy Bitcoin (BTC)"
+﻿---
+title: "Easiest way to buy Bitcoin (BTC)"
 parent: Tutorials
 ---
 
-# Easiest Way to buy Bitcoin (BTC)
+# Easiest way to buy Bitcoin (BTC)
 
-How hard is it to get a Bitcoin (BTC)!? [Cake Wallet](https://cakewallet.com) makes it a piece of cake.
+How hard is it to get a Bitcoin (BTC)? [Cake Wallet](https://cakewallet.com) makes it a piece of cake!
 
 ## Buying in-app with Cake Wallet
 
-Our top recommend method for buying Bitcoin (BTC) is through the [Cake Wallet app](https://cakewallet.com). Cake Wallet is free, open-source and non-custodial. It is available for Apple ([iOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542) and [MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542)), Android ([Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet) and [APK](https://github.com/cake-tech/cake_wallet/releases)), and Linux.
+Our top recommend method for buying Bitcoin (BTC) is through the [Cake Wallet app](https://cakewallet.com). Cake Wallet is free, open-source and non-custodial. It is available for Apple ([iOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542) and [MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542)), Android ([Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet) and [APK](https://github.com/cake-tech/cake_wallet/releases)), and [Linux](https://github.com/cake-tech/cake_wallet/releases).
 
 Follow these steps to get started:
 
@@ -29,10 +26,8 @@ Follow these steps to get started:
 [![Cake Wallet Bitcoin Home Screen](/images/BTCWalletMainScreen.jpg){:width="32%"}](/images/BTCWalletMainScreen.jpg)
 [![Buy Bitcoin Screen](/images/BuyBTC.jpg){:width="32%"}](/images/BuyBTC.jpg)
 
-
 ## Converting other cryptocurrencies to Bitcoin (BTC)
 
 If you already have cryptocurrency that you wish to convert to Bitcoin (BTC), the easiest way to do that is in the [Cake Wallet app](https://cakewallet.com).
 
 Simply download [Cake Wallet](https://cakewallet.com), then follow [these instructions](https://guides.cakewallet.com/docs/basic-features/exchange/).
-
