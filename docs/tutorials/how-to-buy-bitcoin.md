@@ -23,8 +23,8 @@ Follow these steps to get started:
 8. Complete the email and other verification steps to complete your BTC purchase. Verification requirements vary by purchase amount, country, and other details.
 10. After your details are accepted, your Bitcoin (BTC) will arrive in approximately 15 minutes!
 
-[![Cake Wallet Bitcoin Home Screen](/images/BTCWalletMainScreen.jpg){:width="32%"}](/images/BTCWalletMainScreen.jpg)
-[![Buy Bitcoin Screen](/images/BuyBTC.jpg){:width="32%"}](/images/BuyBTC.jpg)
+[![Cake Wallet Bitcoin Home Screen](/images/mainscreen-btc.jpg){:width="32%"}](/images/mainscreen-btc.jpg)
+[![Buy Bitcoin Screen](/images/buy-btc.jpg){:width="32%"}](/images/buy-btc.jpg)
 
 ## Converting other cryptocurrencies to Bitcoin (BTC)
 
