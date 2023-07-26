@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to buy Tether (USDT)"
 parent: Tutorials
 ---
