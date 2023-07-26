@@ -21,7 +21,7 @@ Follow these steps to get started:
 6. Click "Continue to Buy".
 7. Confirm the details. Your wallet's address will be filled in automatically. Click "Continue".
 8. Complete the email and other verification steps to complete your LTC purchase. Verification requirements vary by purchase amount, country, and other details.
-10. After your details are accepted, your Litecoin (LTC) will arrive in approximately 15 minutes!
+9. After your details are accepted, your Litecoin (LTC) will arrive in approximately 15 minutes!
 
 [![Cake Wallet Litecoin Home Screen](/images/mainscreen-ltc.PNG){:width="32%"}](/images/mainscreen-ltc.PNG)
 [![Buy LTC Screen](/images/buy-ltc.PNG){:width="32%"}](/images/buy-ltc.PNG)

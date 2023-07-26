@@ -1,4 +1,4 @@
----
+﻿---
 title: "Easiest way to buy Bitcoin (BTC)"
 parent: Tutorials
 ---
@@ -21,7 +21,7 @@ Follow these steps to get started:
 6. Click "Continue to Buy".
 7. Confirm the details. Your wallet's address will be filled in automatically. Click "Continue".
 8. Complete the email and other verification steps to complete your BTC purchase. Verification requirements vary by purchase amount, country, and other details.
-10. After your details are accepted, your Bitcoin (BTC) will arrive in approximately 15 minutes!
+9. After your details are accepted, your Bitcoin (BTC) will arrive in approximately 15 minutes!
 
 [![Cake Wallet Bitcoin Home Screen](/images/mainscreen-btc.jpg){:width="32%"}](/images/mainscreen-btc.jpg)
 [![Buy Bitcoin Screen](/images/buy-btc.jpg){:width="32%"}](/images/buy-btc.jpg)
