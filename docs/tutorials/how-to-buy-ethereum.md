@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to buy Ethereum (ETH)"
 parent: Tutorials
 ---
