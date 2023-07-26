@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to buy USD Coin (USDC)"
 parent: Tutorials
 ---
