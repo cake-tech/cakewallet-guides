@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to buy Dai (DAI)"
 parent: Tutorials
 ---
