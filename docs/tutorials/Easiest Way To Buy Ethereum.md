@@ -1,10 +1,9 @@
 ﻿---
 title: "How to buy Ethereum (ETH)"
 parent: Tutorials
-
 ---
 
-# Easiest Way to buy Ethereum (ETH)
+# Easiest way to buy Ethereum (ETH)
 
 It's extremely simple to buy Ethereum (ETH)! [Cake Wallet](https://cakewallet.com) makes it a piece of cake.
 
@@ -22,12 +21,10 @@ Follow these steps to get started:
 6. Click "Continue to Buy".
 7. Confirm the details. Your wallet's address will be filled in automatically. Click "Continue".
 8. Complete the email and other verification steps to complete your ETH purchase. Verification requirements vary by purchase amount, country, and other details.
-10. After your details are accepted, your Ethereum (ETH) will arrive in approximately 15 minutes!
+9. After your details are accepted, your Ethereum (ETH) will arrive in approximately 15 minutes!
 
 [![Cake Wallet ETH home screen](/images/ETH_MainScreen.PNG){:width="32%"}](/images/ETH_MainScreen.PNG)
 [![Buy Ethereum screen](/images/ETH_BuyScreen.PNG){:width="32%"}](/images/ETH_BuyScreen.PNG)
-
-
 
 ## Converting other cryptocurrencies to Ethereum (ETH)
 

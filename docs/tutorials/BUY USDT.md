@@ -1,12 +1,11 @@
 ﻿---
 title: "How to buy Tether (USDT)"
 parent: Tutorials
-
 ---
 
 # Easiest Way to buy Tether (USDT)
 
-[Cake Wallet](https://cakewallet.com) makes it a piece of cake to buy Tether (USDT), an ERC-20 token which are a type of cryptocurrency built on the Ethereum Blockchain; here's how you do it!
+[Cake Wallet](https://cakewallet.com) makes it a piece of cake to buy Tether (USDT), an ERC-20 token which are a type of cryptocurrency built on the Ethereum blockchain; here's how you do it!
 
 ## Buying in-app with Cake Wallet
 
@@ -16,20 +15,19 @@ Follow these steps to get started:
 
 1. Download [Cake Wallet](https://cakewallet.com) and [create your first Ethereum wallet](https://guides.cakewallet.com/docs/basic-features/create-first-wallet/).
 2. Click the "Buy" button in the lower left corner.
-3. Type in the amount of Tether (USDT) you wish to purchase.
-4. Select how you will fund the transaction (credit / debit card, bank transfer, etc).
-5. The system will provide a trade quote.
-6. Click "Continue to Buy".
-7. Confirm the details. Your wallet's address will be filled in automatically. Click "Continue".
-8. Complete the email and other verification steps to complete your Tether (USDT) purchase. Verification requirements vary by purchase amount, country, and other details.
+3. Change the currency from ETH to USDT.
+4. Type in the amount of Tether (USDT) you wish to purchase.
+5. Select how you will fund the transaction (credit / debit card, bank transfer, etc).
+6. The system will provide a trade quote.
+7. Click "Continue to Buy".
+8. Confirm the details. Your wallet's address will be filled in automatically. Click "Continue".
+9. Complete the email and other verification steps to complete your Tether (USDT) purchase. Verification requirements vary by purchase amount, country, and other details.
 10. After your details are accepted, your Tether (USDT) will arrive in approximately 15 minutes!
 
 [![Cake Wallet ETH home screen](/images/ETH_MainScreen.PNG){:width="32%"}](/images/ETH_MainScreen.PNG)
 [![Buy USDT screen](/images/USDT_BuyScreen.PNG){:width="32%"}](/images/USDT_BuyScreen.PNG)
 
-
-
-## Converting other cryptocurrencies to DAI
+## Converting other cryptocurrencies to Tether (USDT)
 
 If you already have cryptocurrency that you wish to convert to Tether (USDT), the easiest way to do that is in the [Cake Wallet app](https://cakewallet.com).
 
