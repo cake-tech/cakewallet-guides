@@ -85,7 +85,7 @@ Cake Wallet uses native operating system background processes to preserve batter
 There are three background sync options:
 
 * **Disabled**: No background syncing.
-* **Unobtrusive**: Attempts to background sync approximately once a day if all of these conditions are true: the device is charging, the device does not have a low battery, the device is not being actively used, and the device is on an unmetered connection (such as Wi-Fi).
+* **Unobtrusive** (default): Attempts to background sync approximately once a day if all of these conditions are true: the device is charging, the device does not have a low battery, the device is not being actively used, and the device is on an unmetered connection (such as Wi-Fi).
 * **Aggressive**: Attempts to background sync approximately once every six (6) hours if all of these conditions are true: the device is charging, the device does not have a low battery, and the device is not being actively used.
 
 Additionally, there is a `Sync all wallets` setting, enabled by default. When enabled, all Monero wallets will be synced in the background concurrently. When disabled, only the active Monero wallet will by synced in the background.
