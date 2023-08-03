@@ -95,5 +95,5 @@ Please note that for background tasks, the operating system has a large amount o
 Background syncing may not work correctly in these and other cases:
 
 * **You force close apps.** Force closing apps can be a signal to your operating system that you don't care about the app running. Generally, closing apps in the android app switcher *shouldn't* prevent background syncing, but the operating system ultimately decides how to handle these cases.
-* **You don't open Cake Wallet for a while.** This is usually a signal to the operating system to prevent these background processes. On android, you can take some steps to mitigate this, such as adding Cake Wallet to the `Never sleeping apps` list.
+* **You don't open Cake Wallet for a while.** This is usually a signal to the operating system to prevent these background processes. On android, you can take some steps to mitigate this, such as [adding](https://www.androidpolice.com/prevent-apps-from-sleeping-in-the-background-on-android/) Cake Wallet to the `Never sleeping apps` or `Unrestricted` list.
 * Anything else the operating system feels like preventing.
