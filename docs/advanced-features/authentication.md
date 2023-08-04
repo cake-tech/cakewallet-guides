@@ -55,19 +55,31 @@ As TOTP becomes more and more common, we feel that it is important to provide us
 
 ## Enabling Cake 2FA
 
-To set up Cake 2FA, click on the upper right hamburger menu, then "Security and backup", then "Set up Cake 2FA".
+To set up Cake 2FA, click on the upper right hamburger menu, then `Security and backup`, then `Set up Cake 2FA`.
 
-You will see a series of warnings. After understanding the limitations, click "Set up TOTP".
+You will see a series of warnings. After understanding the limitations, click `Set up TOTP`.
 
-You will be presented with a QR code and a TOTP Secret Code. We recommend scanning the QR code with an open-source TOTP application on another device, but you can click to copy the code as well. When added to your desired TOTP app, click "Continue".
+You will be presented with a QR code and a TOTP Secret Code. We recommend scanning the QR code with an open-source TOTP application on another device, but you can click to copy the code as well. When added to your desired TOTP app, click `Continue`.
 
-You will be prompted to provide the 8-digit TOTP code. Type in the current code, then click "Continue".
+You will be prompted to provide the 8-digit TOTP code. Type in the current code, then click `Continue`.
 
 If correct, you will be presented with a success message. A TOTP code will now be required in addition to your PIN, password, or biometrics every time there is an authentication challenge.
 
+## Cake 2FA presets and access control settings
+
+After enabling Cake 2FA, you will be presented with presets and access control settings. You can edit these later by clicking on `Security and backup`, then `Modify Cake 2FA`.
+
+There are three access control presets available:
+
+* **Narrow**. Allows opening the wallet and sending/exchanging to your own Cake Wallet addresses and addresses saved in the Address Book without needing a TOTP code. A TOTP code is required to create a new wallet or to add a contact.
+* **Normal** (default). Requires a TOTP code for the most sensitive actions, but not for opening the wallet.
+* **Aggressive**. Requires a TOTP code to access the wallet.
+
+We recommend using one of these presets; however, you can manually enable or disable individual access control settings as you wish.
+
 ## Disabling Cake 2FA
 
-Click on the upper right hamburger menu, then "Security and backup", then "Modify Cake 2FA".
+Click on the upper right hamburger menu, then `Security and backup`, then `Modify Cake 2FA`.
 
 You will be prompted for authentication, including a TOTP code. Then, you will be shown an option to disable Cake 2FA. If you wish to generate a new TOTP code, then disable Cake 2FA, and then enable it again after to generate a new code with a new setup process.
 
@@ -104,7 +116,3 @@ Using a time other than the default 30 seconds will lead to user experience issu
 ## Will you support HOTP?
 
 We have not yet determined if we want to support HOTP or not.
-
-## Cake 2FA is annoying. I only want to use it for the most sensitive actions, not to check for an incoming payment.
-
-We hear you. Verbose permission control is planned.
