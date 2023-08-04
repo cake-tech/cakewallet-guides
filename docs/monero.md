@@ -75,3 +75,25 @@ When enabled:
 * Your address book will be collapsed to only show one entry per account, which will be linked to the latest subaddress for the relevant account.
 
 You can disable this feature in settings. Doing so will restore the same functionality as before: you will need to manually label and switch to each subaddress.
+
+## Background syncing
+
+In `Connection and sync` settings, you can enable or disable background syncing for your Monero wallets. By default, all of your Monero wallets will sync in the background in `Unobtrusive` mode.
+
+Cake Wallet uses native operating system background processes to preserve battery life, preserve device longevity, and mitigate user interference.
+
+There are three background sync options:
+
+* **Disabled**: No background syncing.
+* **Unobtrusive** (default): Attempts to background sync approximately once a day if all of these conditions are true: the device is charging, the device does not have a low battery, the device is not being actively used, and the device is on an unmetered connection (such as Wi-Fi).
+* **Aggressive**: Attempts to background sync approximately once every six (6) hours if all of these conditions are true: the device is charging, the device does not have a low battery, and the device is not being actively used.
+
+Additionally, there is a `Sync all wallets` setting, enabled by default. When enabled, all Monero wallets will be synced in the background concurrently. When disabled, only the active Monero wallet will by synced in the background.
+
+Please note that for background tasks, the operating system has a large amount of discretion on whether to allow these tasks to run, how often to run them, and how long to run them for. On android, we have seen background tasks be permitted for as low as five (5) seconds, and as much as six hundred (600) seconds.
+
+Background syncing may not work correctly in these and other cases:
+
+* **You force close apps.** Force closing apps can be a signal to your operating system that you don't care about the app running. Generally, closing apps in the android app switcher *shouldn't* prevent background syncing, but the operating system ultimately decides how to handle these cases.
+* **You don't open Cake Wallet for a while.** This is usually a signal to the operating system to prevent these background processes. On android, you can take some steps to mitigate this, such as [adding](https://www.androidpolice.com/prevent-apps-from-sleeping-in-the-background-on-android/) Cake Wallet to the `Never sleeping apps` or `Unrestricted` list.
+* Anything else the operating system feels like preventing.
