@@ -88,7 +88,7 @@ There are three background sync options:
 * **Unobtrusive** (default): Attempts to background sync approximately once a day if all of these conditions are true: the device is charging, the device does not have a low battery, the device is not being actively used, and the device is on an unmetered connection (such as Wi-Fi).
 * **Aggressive**: Attempts to background sync approximately once every six (6) hours if all of these conditions are true: the device is charging, the device does not have a low battery, and the device is not being actively used.
 
-Additionally, there is a `Sync all wallets` setting, enabled by default. When enabled, all Monero wallets will be synced in the background concurrently. When disabled, only the active Monero wallet will by synced in the background.
+Additionally, there is a `Sync all wallets` setting, enabled by default. When enabled, all Monero wallets will be synced in the background concurrently. When disabled, only the active Monero wallet will be synced in the background.
 
 Please note that for background tasks, the operating system has a large amount of discretion on whether to allow these tasks to run, how often to run them, and how long to run them for. On android, we have seen background tasks be permitted for as low as five (5) seconds, and as much as six hundred (600) seconds.
 
