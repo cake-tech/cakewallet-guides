@@ -64,3 +64,9 @@ You should also try turning off Tor or your VPN, and seeing if the issue persist
 This is a rare wallet issue for Bitcoin and Litecoin.
 
 First, please try force closing and restarting your app. If this does not address the issue, please save your mnemonic seed, then delete and [restore the wallet from seed](/docs/basic-features/restore-wallet-from-keys-or-seed/).
+
+### RPCError: got code -32000 with msg "execution reverted"
+
+This is a rare wallet issue for Ethereum.
+
+Please first try a different node. Then, try force closing and restarting your application. If you still see the error, please contact support with information about your internet connection and which Ethereum node you are using.
