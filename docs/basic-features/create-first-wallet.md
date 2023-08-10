@@ -14,6 +14,7 @@ You first need the Cake Wallet official application.
 
 * Apple App Store (iPhone, MacOS): [https://cakewallet.com/ios](https://cakewallet.com/ios)
 * Google Play: [https://cakewallet.com/gp](https://cakewallet.com/gp)
+* F-Droid: [https://fdroid.cakelabs.com](https://fdroid.cakelabs.com)
 * Android APK: [https://cakewallet.com/apk](https://cakewallet.com/apk)
 * Linux: [https://github.com/cake-tech/cake_wallet/releases](https://github.com/cake-tech/cake_wallet/releases)
 
