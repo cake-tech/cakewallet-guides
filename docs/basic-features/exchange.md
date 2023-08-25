@@ -4,7 +4,7 @@ parent: Basic features
 ---
 # Cake Wallet exchanges
 
-If you would like to exchange cryptocurrencies, then you can use Cake Wallet's built-in exchange. We show examples below converting Bitcoin (BTC) and Monero (XMR), but it works for many other assets as well!
+If you would like to exchange cryptocurrencies, then you can use Cake Wallet's built-in exchange. We show examples below converting Bitcoin (BTC) and Monero (XMR), but it works for many other assets as well! Exchange services are provided third parties.
 
 
 ### Step 1
@@ -44,52 +44,70 @@ Cake Wallet's exchange providers support dozens of different cryptocurrency pair
 
 ### Supported assets
 
-| Ticker | Name | Blockchain (Tag) | Notes |
+| Ticker | Name | Blockchains (Tags) | Notes |
 | --- | --- | --- | --- |
+| AAVE | Aave | ETH |
 | ADA | Cardano | Native |
 | APE | ApeCoin | ETH |
+| ARB | Arbitrum | Native |
 | AVAX | Avalanche | C-CHAIN |
+| BAT | Basic Attention Token | ETH |
 | BCH | Bitcoin Cash | Native |
 | BNB | Binance Coin | BSC |
-| BTC | Bitcoin | Native |
-| BTT | BitTorrent | BSC |
+| BTC | Bitcoin | Native, Lightning (LN) |
+| BTTC | BitTorrent Chain | TRX |
+| CAKE | PancakeSwap | ETH | Not affiliated with Cake Wallet |
+| COMP | Compound | ETH |
+| CRO | Crypto.com Cronos | ETH |
 | DAI | Dai | ETH |
 | DASH | Dash | Native |
 | DCR | Decred | Native |
 | DOGE | Dogecoin | Native |
+| DYDX | dYdX | ETH |
+| ENS | Ethereum Name Service | ETH |
 | EOS | EOS | Native |
 | ETH | Ethereum | Native |
 | FIRO | FIRO | Native |
-| MANA | Decentraland | ETH |
-| MATIC | Polygon | ETH |
-| MATIC | Polygon | POLY |
-| MKR | Maker | ETH |
-| NEAR | NEAR Protocol | Native |
+| FTM | Fantom | ETH |
+| FRAX | Frax | ETH |
+| GUSD | Gemini USD | ETH |
+| GTC | Gitcoin | ETH |
+| GRT | The Graph | ETH |
 | HBAR | Hedera | Native |
 | KMD | Komodo | Native |
+| LDO | Lido DAO | ETH |
 | LTC | Litecoin | Native |
+| MANA | Decentraland | ETH |
+| MATIC | Polygon | ETH, POLY |
+| MKR | Maker | ETH |
+| NEAR | NEAR Protocol | Native |
+| NEXO | Nexo | ETH |
 | OXT | Orchid | ETH |
 | PAXG | Pax Gold | ETH |
+| PEPE | Pepe | ETH |
 | PIVX | PIVX | Native |
 | RUNE | Thorchain | Native |
 | RVN | Ravencoin | Native |
 | SC | Siacoin | Native |
 | SCRT | Secret Network | Native |
+| SHIB | Shiba Inu | ETH |
 | SOL | Solana | Native |
+| STETH | Lido Staked Ethereum | ETH |
+| STORJ | Storj | ETH |
 | STX | Stacks | Native |
 | TRX | Tron | Native |
+| TUSD | TrueUSD | ETH |
 | TZEC | Zcash Transparent | ZEC |
 | UNI | Uniswap | ETH |
-| USDC | USD Coin | ETH |
-| USDC | USD Coin | POLY |
-| USDC | USD Coin | SOL |
-| USDT | Tether | ETH |
-| USDT | Tether | OMNI |
-| USDT | Tether | TRX |
+| USDC | USD Coin | ETH, POLY, SOL |
+| USDT | Tether | ETH, OMNI, TRX |
+| WBTC | Wrapped Bitcoin | ETH |
+| WETH | Wrapped Ethereum | ETH |
 | XHV | Haven | Native |
 | XLM | Stellar Lumens | Native | Convert from only |
 | XMR | Monero | Native |
 | XRP | Ripple | Native | Convert from only |
 | XVG | Verge | Native |
 | ZEN | Horizen | Native |
+| ZRX | 0x Protocol | ETH |
 | ZZEC | Zcash Shielded | ZEC | Sapling only |
