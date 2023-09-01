@@ -32,7 +32,7 @@ These fee levels are determined automatically using current network fee rates.
 
 We recommend using the `Medium` fee level under normal conditions for a good balance of speed and cost.
 
-Ethereum has two components to fees: the `base` component set as the network minimum, and the `prioirty` component. By changing the Cake Wallet fee level, you add or remove from this `prioirty` value. The `base` fee component does not change.
+Ethereum has two components to fees: the `base` component set as the network minimum, and the `priority` component. By changing the Cake Wallet fee level, you add or remove from this `priority` value. The `base` fee component does not change.
 
 ## Tokens
 
