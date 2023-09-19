@@ -24,23 +24,15 @@ Cake Pay Web only issues refunds in select cases.
 
 ## How long does it take to receive a gift card?
 
-Most merchant cards will arrive within 1 hour, but it can take 1 business day or longer in rare cases. Cake Pay Web is slower in general than Cake Pay Mobile. Make sure to save your order ID to get faster support!
+Most merchant cards will arrive within 1 hour, but it can take 1 business day or longer in rare cases. Make sure to save your order ID to get faster support!
 
 ## Can Cake Pay Web be used outside of the United States?
 
-Yes, Cake Pay Web is available in 140+ countries, including the United States!
-
-Cake Pay Web is available in these countries and regions (subject to change): Algeria, American Samoa, Andorra, Angola, Anguilla, Antarctica, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belgium, Belize, Bermuda, Bhutan, Bolivia, Botswana, Bouvet Island, Brazil, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Cabo Verde, Cameroon, Canada, Caribbean Netherlands, Chile, China, Christmas Island, Cocos (Keeling) Islands, Colombia, Cook Islands, Costa Rica, Croatia, Curaçao, Cyprus, Czech Republic, Denmark, Djibouti, Dominica, Ecuador, Egypt, El Salvador, Estonia, Ethiopia, Falkland Islands, Faroe Islands, Federated States of Micronesia, Fiji, Finland, France, French Guiana, French Polynesia, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guadeloupe, Guam, Guatemala, Guernsey, Guyana, Heard Island and McDonald Islands, Hong Kong, Hungary, Iceland, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kiribati, Kuwait, Latvia, Liechtenstein, Lithuania, Luxembourg, Malawi, Malaysia, Malta, Martinique, Mauritania, Mayotte, Mexico, Monaco, Montserrat, Morocco, Netherlands, New Zealand, Niger, Nigeria, Niue, Norfolk Island, Northern Mariana Islands, Norway, Oman, Palau, Peru, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Saudi Arabia, Singapore, Slovak Republic, Slovenia, Solomon Islands, South Africa, South Korea, Spain, Sri lanka, Sweden, Switzerland, Taiwan, Thailand, Tonga, Turkey, Turkmenistan, Tuvalu, UAE, UK, Uruguay, USA, Vanuatu, Vatican City, Vietnam, Virgin Islands (U.S.)
-
-This list is subject to change.
+Currently, Cake Pay Web is primarily focused on the United States, but some products will work in most other countries.
 
 ## Why does Cake Pay need my email address?
 
 Your email serves as a convenient way to provide support.
-
-## Why do I need to log in just to view the merchants?
-
-We know, this sucks. Sadly, it's the only way we are allowed to operate this service. We will drop the login requirement if we can.
 
 ## Do I need to provide other information to third-parties to use my purchased products?
 
@@ -60,11 +52,7 @@ Some products require you activate the item on another website because of variou
 
 ## What fees are there?
 
-Cake Pay Web products are sold at face value. If you would like discounts for a selection of USA cards, check out Cake Pay Mobile.
-
-## Why aren't Cake Pay Web products available in Cake Pay Mobile?
-
-Cake Pay Web and Mobile are related but not exactly the same. They each communicate with different backends. We created Cake Pay Web to get these products available to everyone as quickly as possible, with the aim of incorporating these and better products to Cake Pay Mobile over time.
+Cake Pay Web products are sold at face value.
 
 ## Are there any limits?
 
