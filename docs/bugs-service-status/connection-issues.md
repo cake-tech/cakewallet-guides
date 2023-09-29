@@ -17,7 +17,7 @@ Understanding the connection status of your wallet can be the first step in reso
 
 - **Attempting Sync**: Your wallet has connected to a node, and is currently exchanging information before the sync begins.
 
-- **<Number> Blocks Remaining**: Your wallet is currently synchronizing; you should be patient and keep the wallet app open until the number reaches zero. If the number decreases very slowly, you can follow our troubleshooting steps.
+- **# Blocks Remaining**: Your wallet is currently synchronizing; you should be patient and keep the wallet app open until the number reaches zero. If the number decreases very slowly, you can follow our troubleshooting steps.
 
 - **Synchronized**: Your wallet is synced, and no further action is needed.
 
