@@ -23,6 +23,9 @@ You will need to enable DNSSEC, or else someone could try to impersonate you. We
 
 ## Ethereum Name Service (ENS)
 
+{: .warning}
+This ENS implementation currently only works for sending to Ethereum addresses. If you query an existing record for a different asset, then it will return an [undecoded string](https://github.com/ensdomains/address-encoder). You can decode this string manually (not recommended). We will add support for decoding with additional assets in a future release.
+
 Cake Wallet has full support for sending to addresses associated with ENS names that end in `.eth`. Simply type the domain in the `Send` screen.
 
 If (and only if) you type in a string that ends in `.eth` (eg: `cakewallet.eth`), then your wallet will communicate directly with your specified Ethereum node or the default Ethereum node (if no custom node is specified).
