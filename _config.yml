@@ -31,6 +31,9 @@ callouts:
     color: red
   friendly:
     color: blue
+  note:
+    title: Note
+    color: purple
 
 # Footer content
 footer_content: "Copyright &copy; Cake Labs LLC using Just the Docs"
