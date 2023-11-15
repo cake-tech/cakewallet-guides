@@ -12,6 +12,9 @@ Cake Wallet supports optional biometric authentication on supported devices. You
 {: .warning}
 Read this entire section carefully to understand the benefits and risks of the Cake 2FA feature. Cake 2FA is a **nontraditional TOTP implementation**, since there are no Cake Wallet servers to verify your app authentication attempts.
 
+{: .friendly}
+For a basic introduction and setup tutorial for Cake 2FA, watch our [video tutorial here](https://www.youtube.com/watch?v=21ZhWCwvfxw)
+
 In security settings, you can optionally enable Cake 2FA. **Cake 2FA serves as a secondary line of defense for your wallets, but it is a defense that is ONLY useful for casual cases. It will NOT protect your wallet from sophisticated attackers.**
 
 When enabled, Cake 2FA requires a user to provide a [TOTP](https://wikipedia.org/wiki/Time-based_one-time_password) 8-digit code after successfully authenticating with their PIN or biometrics, every time that an authentication challenge is triggered.
@@ -39,7 +42,7 @@ In Cake Wallet, there are no servers that can serve this purpose. Thus, brute fo
 
 A casual attacker who is interacting with the unmodified Cake Wallet user interface will be unable to make enough guesses to reliably bypass the TOTP code. The Cake Wallet UI will restrict further authentication attempts for three minutes if there are three consecutive TOTP failures. Thus, for a 50% chance of success, a casual attacker will need to continuously type in codes this way for [over 200 years](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
 
-However, sophisticated attackers won't necessarily be limited by this UI. A sophisticated attacker could take the Cake Wallet files, export them, and then interact with them using custom software that bypasses these rate limits. If an attacker was able to fully bypass these limits, then the time to brute-force the TOTP code could be only [a matter of hours](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
+However, sophisticated attackers won't necessarily be limited by this UI. A sophisticated attacker (depending on the security of the device or operating system) could potentially take the Cake Wallet files, export them, and then interact with them using custom software that bypasses these rate limits. If an attacker was able to fully bypass these limits, then the time to brute-force the TOTP code could be only [a matter of hours](https://security.stackexchange.com/questions/185905/maximum-tries-for-2fa-code/185917#185917).
 
 Cake Wallet developers have taken steps to make these tasks as challenging as possible, but we cannot account for every single case.
 
@@ -55,11 +58,14 @@ As TOTP becomes more and more common, we feel that it is important to provide us
 
 ## Enabling Cake 2FA
 
+{: .note}
+Cake 2FA's TOTP implementation requires a [compatible authenticator](/docs/advanced-features/authentication/#what-totp-applications-do-you-recommend)  with support for [SHA-512](/docs/advanced-features/authentication/#why-are-you-using-sha512-my-app-doesnt-support-sha512).
+
 To set up Cake 2FA, click on the upper right hamburger menu, then `Security and backup`, then `Set up Cake 2FA`.
 
 You will see a series of warnings. After understanding the limitations, click `Set up TOTP`.
 
-You will be presented with a QR code and a TOTP Secret Code. We recommend scanning the QR code with an open-source TOTP application on another device, but you can click to copy the code as well. When added to your desired TOTP app, click `Continue`.
+You will be presented with a QR code, a TOTP Secret Code, and a TOTP Auth URI. We recommend scanning the QR code with an open-source TOTP application on another device, but you can click to copy the code or URI as well. When added to your desired TOTP app, click `Continue`.
 
 You will be prompted to provide the 8-digit TOTP code. Type in the current code, then click `Continue`.
 
@@ -99,7 +105,7 @@ If you want to use your Yubikey, you can pair your Yubikey with [Yubico Authenti
 
 ## What TOTP applications do you recommend?
 
-We recommend the following: [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/) (requires Yubikey), [Bitwarden](https://bitwarden.com/pricing/) (requires premium account), [KeePassXC](https://keepassxc.org/) (free and open-source), [1Password](https://1password.com/) (paid and closed-source), and [Aegis](https://getaegis.app/) (free and open-source). Many common TOTP applications such as Google Authenticator, Microsoft Authenticator, and Authy are incompatible with Cake 2FA.
+We recommend the following: [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/) (requires Yubikey), [Bitwarden](https://bitwarden.com/pricing/) (requires premium account), [KeePassXC](https://keepassxc.org/) (free and open-source), [1Password](https://1password.com/) (paid and closed-source), [Ente Auth](https://github.com/ente-io/auth) (free and open-source) and [Aegis](https://getaegis.app/) (free and open-source). Many common TOTP applications such as Google Authenticator, Microsoft Authenticator, and Authy are incompatible with Cake 2FA.
 
 ## Why are you using SHA512? My app doesn't support SHA512.
 
