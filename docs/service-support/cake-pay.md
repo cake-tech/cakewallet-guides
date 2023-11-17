@@ -6,4 +6,8 @@ parent: Service support
 
 # Cake Pay support
 
-Check out the [Cake Pay section](/docs/cake-pay/cake-pay).
+For Cake Pay Web support, please start a live chat via the chat bubble on the Cake Pay website.
+
+[Cake Pay Web](https://cakepay.com/){: .btn .btn-blue } 
+
+
