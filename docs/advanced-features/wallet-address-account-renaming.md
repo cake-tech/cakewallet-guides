@@ -11,4 +11,4 @@ You can not delete addresses and accounts.
 
 # Wallet renaming
 
-You can rename a wallet by clicking on the hamburger menu, clicking `Wallets`, then clicking the pencil icon.
+You can rename a wallet by clicking on the hamburger menu, then `Wallets`, then clicking the pencil icon, renaming your wallet, then clicking `Save`.
