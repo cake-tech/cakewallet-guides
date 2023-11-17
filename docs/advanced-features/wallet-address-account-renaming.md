@@ -11,6 +11,4 @@ You can not delete addresses and accounts.
 
 # Wallet renaming
 
-You can not currently rename wallets. You must first save any information you want from the wallet (especially the mnemonic seed!), then delete the wallet, then restore from mnemonic seed.
-
-You can delete inactive wallets by clicking on the hamburger menu, then `Wallets`, then swiping right to left on the wallet name, then clicking `Delete`.
+You can rename a wallet by clicking on the hamburger menu, clicking `Wallets`, then clicking the pencil icon.
