@@ -47,7 +47,6 @@ The default location for user save data (including wallets) is `~/Documents/cake
 
 ```
 export CAKE_WALLET_DIR=[]
-export XDG_DATA_HOME=$CAKE_WALLET_DIR/preferences
 ```
 Replace `[]` with your preferred file location. Run Cake Wallet from the same command line.
 
