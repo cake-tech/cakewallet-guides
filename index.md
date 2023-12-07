@@ -41,15 +41,6 @@ Cake Wallet runs on most linux devices. We make a compressed folder (tar.gz) and
 
 Example operating systems that are known to be working: Tails, Whonix, Ubuntu.
 
-#### Specifying a custom Linux file save location
-
-The default location for user save data (including wallets) is `~/Documents/cake_wallet`. This can be changed by running the following commands:
-
-```
-export CAKE_WALLET_DIR=[]
-```
-Replace `[]` with your preferred file location. Run Cake Wallet from the same command line.
-
 ### MacOS installation notes
 
 Cake Wallet is available on both Apple Silicon (eg: M1/M2) and Intel Macs.
