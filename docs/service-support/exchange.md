@@ -16,7 +16,7 @@ Cake Wallet supports several third-party exchange integrations for your convenie
 
 SideShift recommends opening a support ticket by interacting with their Intercom chat bubble on their website.
 
-[Email support](mailto:hello@sideshift.ai){: .btn .btn-blue }
+[Email support](mailto:help@sideshift.ai){: .btn .btn-blue }
 
 ## SimpleSwap
 
