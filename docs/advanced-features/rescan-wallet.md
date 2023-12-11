@@ -8,12 +8,13 @@ parent: Advanced features
 {: .warning}
 Rescanning will remove any saved transaction keys and destination addresses, which may be useful for proving payments.
 
-If your XMR transaction is still not appearing and the sync state of the wallet is `SYNCHRONIZED`, then you can rescan by opening the menu in the top-right and tapping `Rescan"`.
+If your XMR transaction is still not appearing and the sync state of the wallet is `SYNCHRONIZED`, then you can rescan by opening the menu in the top-right, tapping `Connection and sync`, then tapping `Rescan`.
 
 ## To rescan your wallet
 
 [![Click hamburger menu](/images/rescan-1.jpg){:width="32%"}](/images/rescan-1.jpg)
-[![Click rescan](/images/rescan-2.jpg){:width="32%"}](/images/rescan-2.jpg)
+[![Click Connection and sync](/images/rescan-2.png){:width="31.1%"}](/images/rescan-2.jpg)
+[![Click rescan](/images/rescan-2.1.png){:width="31.1%"}](/images/rescan-2.jpg)
 [![Add restore height](/images/rescan-3.jpg){:width="32%"}](/images/rescan-3.jpg)
 [![Wait for wallet to sync](/images/rescan-4.jpg){:width="32%"}](/images/rescan-4.jpg)
 [![Wallet synchronized](/images/rescan-5.jpg){:width="32%"}](/images/rescan-5.jpg) 
