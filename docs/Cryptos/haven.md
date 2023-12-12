@@ -5,6 +5,9 @@ parent: Cryptos
 
 # Haven
 
+{: .friendly}
+Official Website: [havenprotocol.org](https://havenprotocol.org/){:target="_blank"}
+
 ## Syncing
 
 **The most common issue with Haven is an unsynchronized wallet.**

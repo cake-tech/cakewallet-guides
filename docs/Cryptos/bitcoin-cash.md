@@ -5,6 +5,9 @@ parent: Cryptos
 
 # Bitcoin Cash
 
+{: .friendly}
+Official Website: [bitcoincash.org](https://bitcoincash.org/){:target="_blank"}
+
 ## Addresses
 
 We automatically generate new Bitcoin Cash addresses after each use for better privacy. Previous addresses continue to work.

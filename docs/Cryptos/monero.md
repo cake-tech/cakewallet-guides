@@ -5,6 +5,15 @@ parent: Cryptos
 
 # Monero
 
+{: .friendly}
+Official Website: [getmonero.org](https://www.getmonero.org/){:target="_blank"}
+
+Monero is the leading cryptocurrency focused on private and censorship-resistant transactions. It is a private, decentralized cryptocurrency that keeps your finances confidential and secure.
+
+The majority of existing cryptocurrencies, including Bitcoin and Ethereum, have transparent blockchains. Transactions can be verified and/or traced by anyone in the world. This means that the sending and receiving addresses of these transactions could potentially be linked to real-world identities.
+
+Monero, on the other hand, uses various technologies to ensure the privacy of its users.
+
 ## Syncing
 
 **The most common issue with Monero is an unsynchronized wallet.**

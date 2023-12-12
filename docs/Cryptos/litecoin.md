@@ -5,6 +5,9 @@ parent: Cryptos
 
 # Litecoin
 
+{: .friendly}
+Official Website: [litecoin.org](https://litecoin.org/){:target="_blank"}
+
 ## Addresses
 
 We automatically generate new Litecoin addresses after each use for better privacy. Previous addresses continue to work.

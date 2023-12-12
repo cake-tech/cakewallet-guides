@@ -5,6 +5,9 @@ parent: Cryptos
 
 # Bitcoin
 
+{: .friendly}
+Official Website: [bitcoin.org](https://bitcoin.org/){:target="_blank"}
+
 ## Addresses
 
 We automatically generate new Bitcoin addresses after each use for better privacy. Previous addresses continue to work.
