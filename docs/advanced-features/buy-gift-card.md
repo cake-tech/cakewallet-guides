@@ -1,6 +1,6 @@
 ---
 title: "Buy gift card"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Buy gift card with Cake Pay

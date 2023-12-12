@@ -1,6 +1,6 @@
 ---
 title: "Why is my Available Balance 0?"
-parent: Bugs and service status
+parent: FAQ
 ---
 
 # Why is my Available balance zero?

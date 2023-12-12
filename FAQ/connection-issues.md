@@ -1,6 +1,6 @@
 ---
 title: "Resolving connection issues"
-parent: Bugs and service status
+parent: FAQ
 ---
 
 # Resolving connection issues

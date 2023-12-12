@@ -1,6 +1,6 @@
 ---
 title: "Send funds"
-parent: Basic features
+parent: Basic Features
 ---
 
 # Send funds

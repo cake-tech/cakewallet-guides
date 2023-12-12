@@ -1,6 +1,5 @@
 ---
-title: "Cake Wallet service status"
-parent: Bugs and service status
+title: "Service Status"
 ---
 
 # Cake Wallet Status

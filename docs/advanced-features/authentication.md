@@ -1,6 +1,6 @@
 ---
 title: "Authentication and 2FA"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Authentication and 2FA

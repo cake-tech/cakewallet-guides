@@ -1,6 +1,6 @@
 ---
 title: "Exchange"
-parent: Basic features
+parent: Basic Features
 ---
 # Cake Wallet exchanges
 

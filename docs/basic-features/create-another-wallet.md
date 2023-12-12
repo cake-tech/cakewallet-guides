@@ -1,6 +1,6 @@
 ---
 title: "Create another wallet"
-parent: Basic features
+parent: Basic Features
 nav_order: 2
 ---
 

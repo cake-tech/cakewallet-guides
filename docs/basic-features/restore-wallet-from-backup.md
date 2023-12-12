@@ -1,6 +1,6 @@
 ---
 title: "Restore wallet from backup file"
-parent: Basic features
+parent: Basic Features
 ---
 
 # Restore/recover a wallet from backup file

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Buy support"
-parent: Service support
+parent: Service Support
 ---
 
 # Exchange support

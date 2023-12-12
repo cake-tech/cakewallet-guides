@@ -1,6 +1,6 @@
 ---
 title: "Change network fee"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Change network fee

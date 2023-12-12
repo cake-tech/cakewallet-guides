@@ -1,6 +1,6 @@
 ---
 title: "Send and exchange templates"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Send and exchange templates

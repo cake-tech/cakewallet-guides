@@ -1,6 +1,6 @@
 ---
 title: "Disable features"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Disable features

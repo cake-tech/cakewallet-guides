@@ -1,6 +1,6 @@
 ---
 title: "Restore wallet from keys or seed"
-parent: Basic features
+parent: Basic Features
 ---
 
 # Restore/recover a wallet from keys or seed

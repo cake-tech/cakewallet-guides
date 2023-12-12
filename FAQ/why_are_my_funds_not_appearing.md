@@ -1,6 +1,6 @@
 ---
 title: "Why are my funds not appearing?"
-parent: Bugs and service status
+parent: FAQ
 ---
 
 # Why are my funds not appearing?  

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sell support"
-parent: Service support
+parent: Service Support
 ---
 
 # Sell support

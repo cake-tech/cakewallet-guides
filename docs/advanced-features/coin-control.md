@@ -1,6 +1,6 @@
 ---
 title: "Coin control"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 For Bitcoin and Litecoin, you can manually specify the specific outputs that you would like to spend in a transaction. Coin control can be configured in the send screen.

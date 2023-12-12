@@ -1,6 +1,6 @@
 ---
 title: "Create backup"
-parent: Basic features
+parent: Basic Features
 ---
 
 # Create backup

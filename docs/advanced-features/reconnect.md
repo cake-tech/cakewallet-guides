@@ -1,6 +1,6 @@
 ---
 title: "Reconnect"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Reconnect

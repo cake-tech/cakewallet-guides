@@ -1,6 +1,6 @@
 ---
 title: "Receive funds"
-parent: Basic features
+parent: Basic Features
 ---
 
 # Receive funds

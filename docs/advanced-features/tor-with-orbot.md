@@ -1,6 +1,6 @@
 ---
 title: "Tor with Orbot"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Tor with Orbot

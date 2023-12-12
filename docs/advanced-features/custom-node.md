@@ -1,6 +1,6 @@
 ---
 title: "Custom node"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Custom node

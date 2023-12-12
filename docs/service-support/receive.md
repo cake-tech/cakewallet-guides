@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Receive support"
-parent: Service support
+parent: Service Support
 ---
 
 # Receive support

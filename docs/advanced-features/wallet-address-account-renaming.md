@@ -1,6 +1,6 @@
 ---
 title: "Address and account renaming"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Address and account renaming

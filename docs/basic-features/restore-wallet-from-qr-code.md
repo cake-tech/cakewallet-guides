@@ -1,6 +1,6 @@
 ---
 title: "Restore wallet from QR code"
-parent: Basic features
+parent: Basic Features
 ---
 
 # Restore wallet from QR code

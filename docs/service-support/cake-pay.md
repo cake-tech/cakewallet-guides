@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Cake Pay support"
-parent: Service support
+parent: Service Support
 ---
 
 # Cake Pay support

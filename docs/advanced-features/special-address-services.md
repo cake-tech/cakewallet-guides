@@ -1,6 +1,6 @@
 ---
 title: "Special address services"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Special address services

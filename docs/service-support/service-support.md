@@ -1,10 +1,10 @@
 ---
-title: "Service support"
+title: "Service Support"
 has_children: true
 nav_order: 6
 ---
 
-# Service support
+# Service Support
 
 Cake Wallet includes third-party services to enrich your experience. Please click on the applicable feature to get support.
 

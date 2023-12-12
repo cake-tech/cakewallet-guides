@@ -1,6 +1,6 @@
 ---
 title: "Address book"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Address book

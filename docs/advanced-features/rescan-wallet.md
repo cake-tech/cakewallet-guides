@@ -1,6 +1,6 @@
 ---
 title: "Rescan"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Rescan

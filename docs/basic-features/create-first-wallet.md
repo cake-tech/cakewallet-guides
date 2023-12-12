@@ -1,6 +1,6 @@
 ---
 title: "Create first wallet"
-parent: Basic features
+parent: Basic Features
 nav_order: 1
 ---
 
@@ -17,6 +17,19 @@ You first need the Cake Wallet official application.
 * F-Droid: [https://fdroid.cakelabs.com](https://fdroid.cakelabs.com)
 * Android APK: [https://cakewallet.com/apk](https://cakewallet.com/apk)
 * Linux: [https://github.com/cake-tech/cake_wallet/releases](https://github.com/cake-tech/cake_wallet/releases)
+
+## Initial app configuration
+
+### For Linux only
+
+If you are using Linux, you can optionally change the default file location.
+
+The default Linux file save location is `~/Documents/cake_wallet`. If you would like to specify a different location, please run the two commands, replacing `/set/your/prefered/location/here` with your preferred location:
+
+```
+export CAKE_WALLET_DIR=/set/your/prefered/location/here
+export XDG_DATA_HOME=$CAKE_WALLET_DIR/preferences
+```
 
 ### For all devices
 

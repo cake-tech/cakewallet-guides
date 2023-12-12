@@ -1,6 +1,6 @@
 ---
 title: "Seed and keys"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # What are a wallet's seed/keys?  

@@ -1,6 +1,6 @@
 ---
 title: "Why did I get this error?"
-parent: Bugs and service status
+parent: FAQ
 ---
 
 # Why did I get this error?  

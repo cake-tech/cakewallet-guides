@@ -1,6 +1,6 @@
 ---
 title: "Trocador AnonPay"
-parent: Advanced features
+parent: Advanced Features
 ---
 
 # Trocador AnonPay

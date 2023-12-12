@@ -14,7 +14,7 @@ aux_links:
     - "https://cakewallet.com"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # External navigation links
 nav_external_links:
@@ -34,6 +34,9 @@ callouts:
   note:
     title: Note
     color: purple
+  website:
+    title: Official Website
+    color: blue
 
 # Footer content
 footer_content: "Copyright &copy; Cake Labs LLC using Just the Docs"
