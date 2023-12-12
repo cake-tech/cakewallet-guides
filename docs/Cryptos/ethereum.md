@@ -1,5 +1,6 @@
 ---
 title: "Ethereum"
+parent: Cryptos
 ---
 
 # Ethereum

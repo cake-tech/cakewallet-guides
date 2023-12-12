@@ -1,5 +1,6 @@
 ---
 title: "Haven"
+parent: Cryptos
 ---
 
 # Haven

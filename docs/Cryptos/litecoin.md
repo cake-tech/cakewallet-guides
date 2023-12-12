@@ -1,5 +1,6 @@
 ---
 title: "Litecoin"
+parent: Cryptos
 ---
 
 # Litecoin

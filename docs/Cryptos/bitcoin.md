@@ -1,5 +1,6 @@
 ---
 title: "Bitcoin"
+parent: Cryptos
 ---
 
 # Bitcoin

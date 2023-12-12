@@ -1,5 +1,6 @@
 ---
 title: "Monero"
+parent: Cryptos
 ---
 
 # Monero
