@@ -6,7 +6,16 @@ parent: Service Support
 
 # Buy support
 
-Cake Wallet supports several third-party exchange integrations for your convenience. We recommend reaching out to the relevant party if you have an issue with their services. Cake Wallet support can help put you in touch with the right team.
+Cake Wallet currently supports Onramper and Robinhood Connect for buying purchasing cryptocurrencies into your wallet.
+
+## Robinhood Connect
+
+Robinhood Connect is only available for US customers. Please use the links below if you need support.
+
+[View support page](https://robinhood.com/us/en/support/){: .btn .btn-blue }
+[Contact Robinhood](https://robinhood.com/contact){: .btn .btn-blue }
+<br /><br/>
+________________________________________________________________________________________________________________________________________________
 
 ## Onramper
 
