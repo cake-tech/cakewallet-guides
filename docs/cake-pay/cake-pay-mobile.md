@@ -6,7 +6,7 @@ parent: Cake Pay
 
 # Cake Pay Mobile
 
-Ckae Pay Mobile has been [discontinued](https://cakelabs.com/news/cake-pay-mobile-to-shut-down/).
+Cake Pay Mobile has been temporarily [discontinued](https://cakelabs.com/news/cake-pay-mobile-to-shut-down/).
 
 ## Contacting Support
 
