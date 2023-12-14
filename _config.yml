@@ -18,6 +18,8 @@ aux_links_new_tab: true
 
 # External navigation links
 nav_external_links:
+  - title: Service Status
+    url: https://status.cakewallet.com
   - title: cakewallet.com
     url: https://cakewallet.com
 
