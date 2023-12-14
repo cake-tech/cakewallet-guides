@@ -25,10 +25,6 @@ We use an [Onramper](https://onramper.com) widget to display these Buy providers
 
 [Email support](mailto:team@payfura.com){: .btn .btn-blue .mr-4 }
 
-## Wyre
-
-[Submit support request](https://wyre-support.zendesk.com/hc/en-us/requests/new){: .btn .btn-blue }
-
 ## MoonPay
 
 [Submit support request](https://support.moonpay.com/hc/en-gb/requests/new){: .btn .btn-blue }
