@@ -4,7 +4,7 @@ title: "Buy support"
 parent: Service Support
 ---
 
-# Exchange support
+# Buy support
 
 Cake Wallet supports several third-party exchange integrations for your convenience. We recommend reaching out to the relevant party if you have an issue with their services. Cake Wallet support can help put you in touch with the right team.
 
@@ -52,5 +52,10 @@ Proceed to start a live chat via the chat bubble on the payment processor's site
 
 ## Itez
 
-[Email support](mailto:support@itez.com){: .btn .btn-blue .mr-4 }
+[Email support](mailto:support@itez.com){: .btn .btn-blue }
 [Telegram support](https://t.me/itezsupport){: .btn .btn-blue }
+
+## Topper
+
+[View support page](https://support.topperpay.com/hc/en-us){: .btn .btn-blue }
+[Submit support ticket](https://support.topperpay.com/hc/en-us/requests/new){: .btn .btn-blue }
