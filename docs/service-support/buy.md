@@ -15,7 +15,18 @@ Robinhood Connect is only available for US customers. Please use the links below
 [View support page](https://robinhood.com/us/en/support/){: .btn .btn-blue }
 [Contact Robinhood](https://robinhood.com/contact){: .btn .btn-blue }
 <br /><br/>
-________________________________________________________________________________________________________________________________________________
+
+---
+
+## DFX
+
+DFX is only available for European customers. Please use the links below if you need support.
+
+[View help page](https://dfx.swiss/help.html){: .btn .btn-blue }
+[Contact DFX](ailto:support@dfx.swiss){: .btn .btn-blue }
+<br /><br/>
+
+---
 
 ## Onramper
 
