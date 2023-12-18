@@ -7,6 +7,8 @@ parent: Tutorials
 
 To use Cake Wallet on Tails, you must run Cake Wallet with extra arguments to store the wallet and preferences in your Persistent volume.
 
+Tails is an amnesic operating system. Everytime Tails is shutdown, it loses any extra programs or files you downloaded. In order to use Cake Wallet on tails, you must setup `Persistent Storage`. This allows you to save the Cake Wallet installation and not need to set it up everytime you restart your Tails install.
+
 To create Persistent Storage, please see [here](https://tails.net/doc/persistent_storage/create/index.en.html).
 
 It is recommended to put the entire Cake Wallet installation under the Persistent volume to avoid re-downloading everytime Tails is started up.
