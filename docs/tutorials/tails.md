@@ -44,3 +44,7 @@ This will place the wallets under `/home/amnesia/Persistent/cake_wallet/wallets`
 You can change the `CAKE_WALLET_DIR` and `XDG_DATA_HOME` to any other directory, as long as they are somewhere in your Persistent volume!
 
 [![Run Cake Wallet](./image3.png){:width=75%"}](./image3.png)
+
+## Future Use
+
+Everytime you startup tails, you can access the Persistent volume and your Cake Wallet folder by using the File Browser or the Terminal, and follow the above instructions to run Cake Wallet.
