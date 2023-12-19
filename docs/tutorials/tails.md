@@ -29,7 +29,7 @@ Example video for extracting the Cake Wallet files into a custom `cake_wallet` P
 
 ## Running
 
-Open the `cake_wallet` folder (or whichever folder you chose) in the Persistent volume.
+Open the `cake_wallet` folder (or whichever extracted folder has the cake_wallet executable) in the Persistent volume.
 
 Right-click on a blank area and click `Open in Terminal`.
 
