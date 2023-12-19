@@ -15,11 +15,17 @@ It is recommended to put the entire Cake Wallet installation under the Persisten
 
 ## Installation
 
-Open the Tor Browser and go to `https://github.com/cake-tech/cake_wallet/releases/` and download the latest release. Example: `Cake_Wallet_v4.12.0_Linux.tar.xz`
+Open the Tor Browser, go to `https://github.com/cake-tech/cake_wallet/releases/`, and download the latest release. Example: `Cake_Wallet_v4.11.0_Linux.tar.xz`
 
-Extract the `Cake_Wallet.xz` to the Persistent volume
+The download will be stored at `/home/amnesia/Tor Browser`. Click the Download icon on the top-right, then click the `Open in Folder` icon to access the download folder.
 
-[![Extract to Persistent volume](./image1.png){:width=75%"}](./image1.png)
+[![Open In Folder](./image.png){:width=75%"}](./image.png)
+
+Extract the Cake_wallet.tar.xz into the Persistent volume at `/home/amnesia/Persistent`
+
+Example video for extracting the Cake Wallet files into a custom `cake_wallet` Persistent directory.
+
+<iframe width="480" height="360" src="./extract.webm" frameborder="0"> </iframe>
 
 ## Running
 
@@ -35,6 +41,6 @@ Run Cake Wallet using this command
 
 This will place the wallets under `/home/amnesia/Persistent/cake_wallet/wallets` and the preferences file under `/home/amnesia/Persistent/cake_wallet/preferences/`
 
-You can change the `CAKE_WALLET_DIR` and `XDG_DATA_HOME` to any other directory, as long as there are somewhere in your Persistent volume!
+You can change the `CAKE_WALLET_DIR` and `XDG_DATA_HOME` to any other directory, as long as they are somewhere in your Persistent volume!
 
 [![Run Cake Wallet](./image3.png){:width=75%"}](./image3.png)
