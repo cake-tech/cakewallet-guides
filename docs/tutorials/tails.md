@@ -7,7 +7,7 @@ parent: Tutorials
 
 To use Cake Wallet on Tails, you must run Cake Wallet with extra arguments to store the wallet and preferences in your Persistent volume.
 
-Tails is an amnesic operating system. Everytime Tails is shutdown, it loses any extra programs or files you downloaded. In order to use Cake Wallet on tails, you must setup `Persistent Storage`. This allows you to save the Cake Wallet installation and not need to set it up everytime you restart your Tails install.
+Tails is an amnesic operating system. Everytime Tails is shutdown, it loses any extra programs or files you downloaded. In order to use Cake Wallet on Tails, you must setup `Persistent Storage`. This allows you to save the Cake Wallet installation and not need to set it up everytime you restart your Tails install.
 
 To create Persistent Storage, please see [here](https://tails.net/doc/persistent_storage/create/index.en.html).
 
@@ -21,7 +21,7 @@ The download will be stored at `/home/amnesia/Tor Browser`. Click the Download i
 
 [![Open In Folder](./image.png){:width=75%"}](./image.png)
 
-Extract the Cake_wallet.tar.xz into the Persistent volume at `/home/amnesia/Persistent`
+Extract the Cake_wallet.tar.xz into the Persistent volume at `/home/amnesia/Persistent`.
 
 Example video for extracting the Cake Wallet files into a custom `cake_wallet` Persistent directory.
 
@@ -29,13 +29,13 @@ Example video for extracting the Cake Wallet files into a custom `cake_wallet` P
 
 ## Running
 
-Open the `cake_wallet` folder in the Persistent volume
+Open the `cake_wallet` folder (or whichever folder you chose) in the Persistent volume.
 
-Right-click on a blank area and click `Open in Terminal`
+Right-click on a blank area and click `Open in Terminal`.
 
 [![Open in Terminal](./image2.png){:width=75%"}](./image2.png)
 
-Run Cake Wallet using this command
+Run Cake Wallet using this command.
 
 `CAKE_WALLET_DIR=$HOME/Persistent/cake_wallet/ XDG_DATA_HOME=$CAKE_WALLET_DIR/preferences ./cake_wallet`
 
