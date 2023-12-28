@@ -34,10 +34,6 @@ Cake Wallet offers three fee levels for transactions:
 
 These fee levels are determined automatically using current network fee rates.
 
-We recommend using the `Medium` fee level under normal conditions for a good balance of speed and cost.
-
-Polygon has two components to fees: the `base` component set as the network minimum, and the `priority` component. By changing the Cake Wallet fee level, you add or remove from this `priority` value. The `base` fee component does not change.
-
 ## Tokens
 
 Cake Wallet's Polygon wallet can store ERC-20 tokens in addition to MATIC. Some common ERC-20 tokens such as USDC, USDT, and DAI are displayed by default. To show other ERC-20 tokens, you'll need to navigate to the Home Screen Settings (shown to the right of `Polygon` on the main screen) and enable them.
