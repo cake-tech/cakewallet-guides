@@ -12,8 +12,8 @@ Cake Wallet currently supports Onramper and Robinhood Connect for buying purchas
 
 Robinhood Connect is only available for US customers. Please use the links below if you need support.
 
-[View support page](https://robinhood.com/us/en/support/){: .btn .btn-blue }
-[Contact Robinhood](https://robinhood.com/contact){: .btn .btn-blue }
+[Support website](https://robinhood.com/us/en/support/){: .btn .btn-blue }
+[Contact](https://robinhood.com/contact){: .btn .btn-blue }
 <br /><br/>
 
 ---
@@ -22,8 +22,8 @@ Robinhood Connect is only available for US customers. Please use the links below
 
 DFX is only available for European customers. Please use the links below if you need support.
 
-[View help page](https://dfx.swiss/help.html){: .btn .btn-blue }
-[Contact DFX](ailto:support@dfx.swiss){: .btn .btn-blue }
+[Support website](https://dfx.swiss/help.html){: .btn .btn-blue }
+[Email](ailto:support@dfx.swiss){: .btn .btn-blue }
 <br /><br/>
 
 ---
@@ -34,37 +34,39 @@ We use an [Onramper](https://onramper.com) widget to display these Buy providers
 
 ## Payfura
 
-[Email support](mailto:team@payfura.com){: .btn .btn-blue .mr-4 }
+[Email](mailto:team@payfura.com){: .btn .btn-blue .mr-4 }
 
 ## MoonPay
 
-[Submit support request](https://support.moonpay.com/hc/en-gb/requests/new){: .btn .btn-blue }
+[Support website](https://support.moonpay.com/){: .btn .btn-blue }
+[Submit request](https://support.moonpay.com/hc/en-gb/requests/new){: .btn .btn-blue }
 
 ## Xanpool
 
-[Submit support ticket](https://xanpool.com/en/help/contact-us){: .btn .btn-blue }
+[Support website](https://xanpool.com/en/help/){: .btn .btn-blue }
+[Submit request](https://xanpool.com/en/help/contact-us){: .btn .btn-blue }
 
 ## Mercuryo
 
-[Email support](mailto:support@mercuryo.io){: .btn .btn-blue }
+[Email](mailto:support@mercuryo.io){: .btn .btn-blue }
 
 ## Coinify
 
-[Submit support request](https://help.coinify.com/hc/en-us/requests/new){: .btn .btn-blue }
+[Support website](https://help.coinify.com/){: .btn .btn-blue }
 
 ## Indacoin
 
-[Email support](mailto:support@indacoin.com){: .btn .btn-blue }
+[Email](mailto:support@indacoin.com){: .btn .btn-blue }
 
 ## UTORG
 
-[Email support](mailto:support@utorg.pro){: .btn .btn-blue }
+[Email](mailto:support@utorg.pro){: .btn .btn-blue }
 
 ## Transak
 
 Proceed to start a live chat via the chat bubble on the payment processor's site.
 
-[Live chat](https://support.transak.com/){: .btn .btn-blue } 
+[Support website](https://support.transak.com/){: .btn .btn-blue } 
 
 ## Itez
 
@@ -73,5 +75,10 @@ Proceed to start a live chat via the chat bubble on the payment processor's site
 
 ## Topper
 
-[View support page](https://support.topperpay.com/hc/en-us){: .btn .btn-blue }
-[Submit support ticket](https://support.topperpay.com/hc/en-us/requests/new){: .btn .btn-blue }
+[Support website](https://support.topperpay.com){: .btn .btn-blue }
+[Submit request](https://support.topperpay.com/hc/en-us/requests/new){: .btn .btn-blue }
+
+## Paybis
+
+[Support website](https://support.paybis.com/){: .btn .btn-blue }
+[Submit request](https://support.paybis.com/hc/en-us/requests/new){: .btn .btn-blue }
