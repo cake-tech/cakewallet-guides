@@ -10,7 +10,7 @@ Cake Wallet currently supports Onramper, Robinhood Connect, and DFX for purchasi
 
 ## Robinhood Connect
 
-Robinhood Connect is only available for US customers. Please use the links below if you need support.
+[Robinhood Connect](https://robinhood.com/) is only available for US customers. Please use the links below if you need support.
 
 [Support website](https://robinhood.com/us/en/support/){: .btn .btn-blue }
 [Contact](https://robinhood.com/contact){: .btn .btn-blue }
@@ -20,7 +20,7 @@ Robinhood Connect is only available for US customers. Please use the links below
 
 ## DFX
 
-DFX is only available for European customers. Please use the links below if you need support.
+[DFX](https://dfx.swiss/) is only available for European customers. Please use the links below if you need support.
 
 [Support website](https://dfx.swiss/help.html){: .btn .btn-blue }
 [Email](ailto:support@dfx.swiss){: .btn .btn-blue }
