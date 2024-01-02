@@ -6,7 +6,7 @@ parent: Service Support
 
 # Buy support
 
-Cake Wallet currently supports Onramper and Robinhood Connect for buying purchasing cryptocurrencies into your wallet.
+Cake Wallet currently supports Onramper, Robinhood Connect, and DFX for purchasing cryptocurrencies into your wallet.
 
 ## Robinhood Connect
 
@@ -30,7 +30,7 @@ DFX is only available for European customers. Please use the links below if you 
 
 ## Onramper
 
-We use an [Onramper](https://onramper.com) widget to display these Buy providers. If you have an issue with the widget itself, please contact Cake Wallet support.
+We use an [Onramper](https://onramper.com) widget to display these crypto providers. If you have an issue with the widget itself, please contact Cake Wallet support. Please use the links below if you need support for the respective provider.
 
 ## Payfura
 
