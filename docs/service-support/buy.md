@@ -82,3 +82,8 @@ Proceed to start a live chat via the chat bubble on the payment processor's site
 
 [Support website](https://support.paybis.com/){: .btn .btn-blue }
 [Submit request](https://support.paybis.com/hc/en-us/requests/new){: .btn .btn-blue }
+
+## Guardarian
+
+[Support website](https://guardarian.freshdesk.com/support/home){: .btn .btn-blue }
+[Submit request](https://guardarian.freshdesk.com/support/tickets/new){: .btn .btn-blue }
