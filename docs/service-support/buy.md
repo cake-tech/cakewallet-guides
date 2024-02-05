@@ -87,3 +87,8 @@ Proceed to start a live chat via the chat bubble on the payment processor's site
 
 [Support website](https://guardarian.freshdesk.com/support/home){: .btn .btn-blue }
 [Submit request](https://guardarian.freshdesk.com/support/tickets/new){: .btn .btn-blue }
+
+
+## Banxa
+
+[Submit request](https://support.banxa.com/en/support/tickets/new){: .btn .btn-blue }
