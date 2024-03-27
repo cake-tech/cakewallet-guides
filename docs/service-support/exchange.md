@@ -26,3 +26,7 @@ SideShift recommends opening a support ticket by interacting with their Intercom
 
 [Email support](mailto:mail@trocador.app){: .btn .btn-blue .mr-4 }
 [Telegram support](https://t.me/TrocadorApp){: .btn .btn-blue }
+
+## Exolix
+[Email support](mailto:support@exolix.com){: .btn .btn-blue .mr-4 }
+[Submit request](https://exolix.com/contact){: .btn .btn-blue}
