@@ -86,7 +86,7 @@ When enabled:
 
 You can disable this feature in settings. Doing so will restore the same functionality as before: you will need to manually label and switch to each subaddress.
 
-## Background syncing
+<!-- ## Background syncing
 
 In `Connection and sync` settings, you can enable or disable background syncing for your Monero wallets. By default, all of your Monero wallets will sync in the background in `Unobtrusive` mode.
 
@@ -95,8 +95,8 @@ Cake Wallet uses native operating system background processes to preserve batter
 There are three background sync options:
 
 * **Disabled**: No background syncing.
-* **Unobtrusive** (default): Attempts to background sync approximately once a day if all of these conditions are true: the device is charging, the device does not have a low battery, the device is not being actively used, and the device is on an unmetered connection (such as Wi-Fi).
-* **Aggressive**: Attempts to background sync approximately once every six (6) hours whether device is idle or not, and whether it is charging or not.
+* **Unobtrusive** (default): Attempts to background sync approximately every twelve (12) hours if all of these conditions are true: the device is charging, the device does not have a low battery, the device is not being actively used, and the device is on an unmetered connection (such as Wi-Fi).
+* **Aggressive**: Attempts to background sync approximately once every three (3) hours whether device is idle or not, and whether it is charging or not.
 
 Additionally, there is a `Sync all wallets` setting, enabled by default. When enabled, all Monero wallets will be synced in the background concurrently. When disabled, only the active Monero wallet will be synced in the background.
 
@@ -108,4 +108,4 @@ Background syncing may not work correctly in these and other cases:
 * **You don't open Cake Wallet for a while.** This is usually a signal to the operating system to prevent these background processes. On android, you can take some steps to mitigate this, such as [adding](https://www.androidpolice.com/prevent-apps-from-sleeping-in-the-background-on-android/) Cake Wallet to the `Never sleeping apps` or `Unrestricted` list.
 * Anything else the operating system feels like preventing.
 
-If you would like to avoid issues with Background syncing on Android, you can set the app's battery usage setting to `Unrestricted` using the Android app settings page (This setting may vary between different Android vendors).
+If you would like to avoid issues with Background syncing on Android, you can set the app's battery usage setting to `Unrestricted` using the Android app settings page (This setting may vary between different Android vendors). -->
