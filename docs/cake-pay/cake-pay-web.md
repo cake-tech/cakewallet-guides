@@ -28,11 +28,12 @@ Most merchant cards will arrive within 1 hour, but it can take 1 business day or
 
 ## Can Cake Pay Web be used outside of the United States?
 
-Currently, Cake Pay Web is primarily focused on the United States, but some products will work in most other countries.
+Yes! Cake Pay supports dozens of countries, and the country can be changed from the dropdown on the left side of the website on https://buy.cakepay.com
+Please note the variety of cards and available stock will differ per country.
 
 ## Why does Cake Pay need my email address?
 
-Your email serves as a convenient way to provide support.
+Your email serves as a way to send you gift card codes and redemption links, and also serves as a way to provide support.
 
 ## Do I need to provide other information to third-parties to use my purchased products?
 
