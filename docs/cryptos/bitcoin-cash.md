@@ -16,4 +16,4 @@ We use the same derivation scheme as Electrum: `m/0/x` for receive addresses, an
 
 ## Seed format
 
-We use the Electrum seed format. We support restoring seeds generated in the Electrum seed format, not the BIP39 format or other formats.
+We use the BIP39 seed format.
