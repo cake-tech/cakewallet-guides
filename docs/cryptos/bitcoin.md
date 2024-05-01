@@ -22,7 +22,7 @@ There are multiple address types supported.
 * Segwit-Compatible (P2SH)
 * Legacy (P2PKH)
 
-You can switch to a different address type by going to the `Receive` screen and tapping the current address type at the top of the screen.
+You can switch to a different address type by going to the `Receive` screen and clicking on the current address type at the top of the screen.
 
 [![Click current address type](./seed.png){:width="32%"}](./seed.png)
 [![Choose address type](./seed2.png){:width="32%"}](./seed2.png)
