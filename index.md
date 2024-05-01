@@ -35,11 +35,13 @@ Don't have Cake Wallet yet? Download it today!
 [Android APK](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue .mr-4 }
 [Linux](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue }
 
-### Linux installation guide
+### Linux installation notes
 
 Cake Wallet runs on most linux devices. We make a compressed folder (tar.gz) and Flatpak available for download. You can also build the wallet using our instructions.
 
 Example operating systems that are known to be working: Tails, Whonix, Ubuntu.
+
+Please note that support is currently a best effort, as the Linux version is still in beta and a user can have hundreds of different Linux system configurations, making it harder to support for installing.
 
 ### MacOS installation notes
 
