@@ -16,4 +16,4 @@ We use the same derivation scheme as Electrum: `m/0/x` for receive addresses, an
 
 ## Seed format
 
-We use the Electrum seed format. We support restoring seeds generated in the Electrum seed format, not the BIP39 format or other formats.
+Litecoin wallets only currently support being created using the Electrum seed format. We support restoring seeds generated in the Electrum and BIP-39 seed format.

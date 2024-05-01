@@ -16,7 +16,9 @@ We use the same derivation scheme as Electrum: `m/0/x` for receive addresses, an
 
 ## Seed format
 
-We use the Electrum seed format. We support restoring seeds generated in the Electrum seed format, not the BIP39 format or other formats.
+Bitcoin wallets only currently support being created using the Electrum seed format. We support restoring seeds generated in the Electrum and BIP-39 seed format.
+
+BIP-39 restoring will check for multiple derivation paths, and ask you which one you would like to use if transactions are detected on multiple paths.
 
 ## Bitcoin fee levels
 
@@ -27,3 +29,13 @@ We recommend leaving your Cake Wallet fee for Bitcoin as `Medium`.
 | Slow ~24hrs | 100 | Save on fees if you can wait a full day for the transaction to be confirmed. |
 | Medium | 5 | The best blend of speed and cost. You'll usually get a confirmation within 3 blocks. |
 | Fast | 1 | Aggressively pursues inclusion in the next block, usually overpaying. |
+
+## RBF (Replace-By-Fee)
+
+As of Cake Wallet version `4.15.4`, the Bitcoin wallet supports using RBF (Replace-by-fee), and is enabled by default for every transaction.
+
+RBF allows you to modify the fee after you have already sent a transaction. You can do this by going to the Transactions screen, clicking on the desired transaction, the clicking `Bump fee`. Once you are in the `Bump fee` page, you can set your fee and click `Send`.
+
+[![Click "Bump fee"](./rbf.png){:width="32%"}](./rbf.png)
+[![Modify fee](./rbf2.png){:width="32%"}](./rbf2.png)
+
