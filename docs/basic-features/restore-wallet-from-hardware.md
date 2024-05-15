@@ -27,6 +27,8 @@ Tap `Restore from hardware wallet`, then choose the wallet type.
 
 Connect your hardware wallet device via either via bluetooth or USB.
 
+Make sure your hardware wallet has your selected crypto app open *before* selecting to use it.
+
 Once you see your device, select it from the menu and allow access (if applicable).
 
 ![Swipe left to right](restore-6.png){:width="32%"}
