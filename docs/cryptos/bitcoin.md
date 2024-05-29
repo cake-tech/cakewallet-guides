@@ -24,8 +24,8 @@ There are multiple address types supported.
 
 You can switch to a different address type by going to the `Receive` screen and clicking on the current address type at the top of the screen.
 
-[![Click current address type](./seed.png){:width="32%"}](./seed.png)
-[![Choose address type](./seed2.png){:width="32%"}](./seed2.png)
+[![Click current address type](./receive.png){:width="32%"}](./receive.png)
+[![Choose address type](./addresstypes.png){:width="32%"}](./addresstypes.png)
 
 ## Seed format
 
@@ -52,3 +52,34 @@ RBF allows you to modify the fee after you have already sent a transaction. You 
 [![Click "Bump fee"](./rbf.png){:width="32%"}](./rbf.png)
 [![Modify fee](./rbf2.png){:width="32%"}](./rbf2.png)
 
+## Silent Payments
+
+Silent Payments (BIP-352) is a protocol for static payment addresses in Bitcoin without on-chain linkability of payments or a need for on-chain notifications.
+
+This protocol protects the receivers privacy by automatically having the sender generate a new Taproot address on chain only the receiver can know is theirs and spend from everytime a transaction is sent to their Silent Payments address.
+
+For a more detailed explanation on how Silent Payments works, please visit [silentpayments.xyz](https://silentpayments.xyz/){:target="_blank"}.
+
+One major difference of Silent Payments is in order to fully protect the privacy of the user and not have the server know which Silent Payments transactions belong to them, we opt for on-device scanning of transactions instead of having a light wallet and making the node do all the work for us. This incurrs greater synchronization time, device power consumption and hardware utilization, but protects the privacy of the user much more.
+
+Silent Payment addresses start with `sp1`.
+
+### Scanning
+
+In order to enable Silent Payments, tap the switch on the "Silent Payments" card to start scanning blocks for Silent Paymemnts.
+
+[![Toggle Silent Payments scanning](./silentpayments.png){:width="32%"}](./silentpayments.png)
+
+The wallet will start scanning at the height from wallet creation, or continue where it left off. Silent Payments scanning will automnatically turn off once it has reached the current blockheight. If you would like it to automatically scan for Silent Payment transactions for new blocks, please toggle an option under Menu -> Silent Payments settings -> "Set Silent Payments always scanning" to on.
+
+[![App menu](./menu.png){:width="32%"}](./menu.png)
+[![Toggle always scanning](./alwaysscan.png){:width="32%"}](./alwaysscan.png)
+
+
+### Receiving
+
+In order to receive a Silent Payment, you must switch your address type to Silent Payments following the instructions at the beginning of this page.
+
+### Sending
+
+You can send Bitcoin to an existing Silent Payments address (`sp1xxx`) using the same flow. No extra work is required to send to a Silent Payments address.
