@@ -29,11 +29,12 @@ Click on a page or search for what you need help with. Support is only a click o
 
 Don't have Cake Wallet yet? Download it today!
 
-[iOS / MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542){: .btn .btn-blue .mr-4 }
-[Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet&referrer=utm_source%3Dguides.cakewallet.com%26utm_medium%3Dwebsite){: .btn .btn-blue .mr-4 }
-[F-Droid](https://fdroid.cakelabs.com){: .btn .btn-blue .mr-4 }
-[Android APK](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue .mr-4 }
-[Linux](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue }
+[iOS / MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542){: .btn .btn-blue .mr-2 }
+[Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet&referrer=utm_source%3Dguides.cakewallet.com%26utm_medium%3Dwebsite){: .btn .btn-blue .mr-2 }
+[F-Droid](https://fdroid.cakelabs.com){: .btn .btn-blue .mr-2 }
+[Android APK](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue .mr-2 }
+[Linux](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue .mr-2 }
+[Windows](https://github.com/cake-tech/cake_wallet/releases){: .btn .btn-blue }
 
 ### Linux installation notes
 
