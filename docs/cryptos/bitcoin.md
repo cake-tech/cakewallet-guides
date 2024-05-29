@@ -78,8 +78,8 @@ The wallet will start scanning at the height from wallet creation, or continue w
 
 ### Receiving
 
-In order to receive a Silent Payment, you must switch your address type to Silent Payments following the instructions at the beginning of this page.
+In order to receive a Silent Payment, you must give the sender your Silent Payments address, which can be found by switching the address type to Silent Payments following the instructions at the beginning of this page. When you want to receive the transaction in the wallet, you must enable Silent Payments scanning.
 
 ### Sending
 
-You can send Bitcoin to an existing Silent Payments address (`sp1xxx`) using the same flow. No extra work is required to send to a Silent Payments address.
+You can send Bitcoin to an existing Silent Payments address (`sp1xxx`) using the same flow. No extra work is required to send to a Silent Payments address, the wallet will handle the unique address generation in the background before sending your transaction.
