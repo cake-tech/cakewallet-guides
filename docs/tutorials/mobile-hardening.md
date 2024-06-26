@@ -11,7 +11,7 @@ Cake Wallet includes many strong protections by default, but there are some step
 
 In the best case, you should use a **dedicated, modern phone** that is still receiving software updates. **Factory reset** the phone and only use it as your Cake Wallet phone. Don't use a work phone. Leave the phone off if you aren't using it, so that the encryption is enforced.
 
-Some people prefer using an operating system such as [CalyxOS](https://calyxos.org/) or [GrapheneOS](https://grapheneos.org/) for Android. Typically, first-party phone providers such as Google and Apple provide faster security updates, at the expense of weaker privacy protections by default.
+Some people prefer using an operating system such as [CalyxOS](https://calyxos.org/) or [GrapheneOS](https://grapheneos.org/) for Android. Typically, first-party phone providers such as Google and Apple provide faster security updates, at the expense of weaker privacy protections by default. If going with a custom ROM, we recommend ROMs that maintain security features like maintaining [verified boot.](https://source.android.com/docs/security/features/verifiedboot)
 
 If you are overwhelmed, start with a modern, factory reset phone from Apple or Google that is still getting software updates. Don't let perfection get in the way of at least starting there.
 
@@ -49,6 +49,16 @@ You generally will want a few apps:
 * **VPN**. You may wish to use a VPN. Choose one recommended by [Privacy Guides](https://www.privacyguides.org/en/vpn/). Pay with XMR. VPNs have [limitations](https://www.consumerreports.org/vpn-services/vpn-testing-poor-privacy-security-hyperbolic-claims-a1103787639/).
 
 You can install apps from your phone's respective app store or from their APKs.
+
+## Keeping Cake Wallet and other applications updated
+
+We recommending finding a workflow, either through automatic or manual updates, to ensure you're receiving the latest security updates for applications. If a vulnerability is ever patched, you want to receive it as quickly as possible. Additionally, it's not uncommon for applications like Cake Wallet to introduce new security features you can benefit from.
+
+Some users prefer automatic updates to receive the newest updates automatically, and some users prefer manual updates to verify new software. Regardless of your preference, make sure you're finding a workflow that works for you.
+
+* [To enable/disable iOS Automatic Updates](https://support.apple.com/en-us/102629)
+* [To enable/disable Android Automatic Updates](https://support.google.com/googleplay/answer/113412)
+* [Many users enjoy Obtainium as a way to fetch updates regardless of source](https://github.com/ImranR98/Obtainium)
 
 ## You should run your own node(s)
 

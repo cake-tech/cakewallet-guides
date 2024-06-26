@@ -34,7 +34,7 @@ Once you see your device, select it from the menu and allow access (if applicabl
 ![Swipe left to right](restore-6.png){:width="32%"}
 ![Allow Access](restore-7.png){:width="32%"}
 
-### Step 4
+## Step 4
 
 Select your desired account and name you wallet.
 
@@ -42,3 +42,6 @@ Then tap `Next`, and you will be in a view mode of your hardware wallet's accoun
 
 [![Choose account](restore-8.png){:width="32%"}](/images/restore-6.jpg)
 [![Balance screen](restore-9.png){:width="32%"}](/images/restore-7.jpg)
+
+## Tutorial video
+[![How to Use Your Ledger With Cake Wallet](https://img.youtube.com/vi/jExAUzETuuo/maxresdefault.jpg)](https://youtu.be/jExAUzETuuo)
