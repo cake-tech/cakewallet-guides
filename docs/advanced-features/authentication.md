@@ -122,3 +122,7 @@ Using a time other than the default 30 seconds will lead to user experience issu
 ## Will you support HOTP?
 
 We have not yet determined if we want to support HOTP or not.
+
+## How can I maximize security of both 2FA and Cake Wallet?
+
+For those needing more security we recommend using a TOTP application on a separate device as an additional security precaution, which requires an attacker to gain access to both the device holding Cake Wallet in addition to the authentication device. Additionally, we recommend following the advice in our dedicated [hardening guide.](/docs/tutorials/mobile-hardening)
