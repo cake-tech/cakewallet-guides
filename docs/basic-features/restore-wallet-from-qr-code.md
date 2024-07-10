@@ -20,4 +20,4 @@ Go to the menu at the top. Tap "Wallets", then "Restore Wallet”.
 
 ## Step 2
 
-Click `Scan QR code`. This will open yoour camera. If you do not see yoour camera, check your app permission settings and enable camera access.
+Click `Scan QR code`. This will open your camera. If you do not see your camera, check your app permission settings and enable camera access.
