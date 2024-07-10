@@ -14,6 +14,10 @@ The majority of existing cryptocurrencies, including Bitcoin and Ethereum, have 
 
 Monero, on the other hand, uses various technologies to ensure the privacy of its users.
 
+## Seed Format
+
+Cake Wallet uses a the 16-word Polyseed (Default) or the 25-word legacy seed for wallet creation and restoration.
+
 ## Syncing
 
 **The most common issue with Monero is an unsynchronized wallet.**
