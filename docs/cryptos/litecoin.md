@@ -42,14 +42,14 @@ You will only need to download this data for MWEB once, regardless of how many L
 
 The wallet will start downloading the needed header data. Once it's fully synchronized, you will be able to "Peg-in" your normal Litecoin inputs into MWEB by sending your balance to your MWEB address.
 
-If you would like for MWEB to be automatically enabled after wallet open, please toggle an option under Menu -> MWEB settings -> “Set MWEB always scanning” to on. Silent Payments scanning will automatically toggle on if there are new blocks to scan and toggle back off when it’s finished.
+If you would like for MWEB to be automatically enabled after wallet open, please toggle an option under Menu -> MWEB settings -> “Set MWEB always scanning” to on. MWEB scanning will automatically toggle on if there are new blocks to scan and toggle back off when it’s finished.
 
 [![App menu](./menu.png){:width="32%"}](./menu.png)
 [![Toggle always scanning](./alwaysscan.png){:width="32%"}](./alwaysscan.png)
 
 ### Receiving
 
-In order to receive an MWEB transaction, you must give the sender your MWEB address, which can be found by switching the address type to MWEB by opening the `Receive` screen, tapping on the `Receive` text at the top, and switching the address type to `MWEB`. When you want to receive the transaction in the wallet, you must enable Silent Payments scanning.
+In order to receive an MWEB transaction, you must give the sender your MWEB address, which can be found by switching the address type to MWEB by opening the `Receive` screen, tapping on the `Receive` text at the top, and switching the address type to `MWEB`. When you want to receive the transaction in the wallet, you must enable MWEB scanning.
 
 ### Sending
 
