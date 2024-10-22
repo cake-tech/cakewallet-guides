@@ -31,9 +31,9 @@ MWEB (MimbleWimble Extension Block) is an addition to the Litecoin blockchain th
 
 MWEB provides extra privacy through **Confidential Transactions**, **Stealth addresses**, and **CoinJoins**
 
-### Scanning
+### Setup
 
-In order to enable MWEB, tap "Enable" on the MWEB card prompt.
+In order to start using MWEB, tap "Enable" on the MWEB card prompt.
 You will receive a notice about data usage, and the time it will take to download the needed data to use MWEB.
 
 {: .note}
@@ -42,16 +42,24 @@ You will only need to download this data for MWEB once, regardless of how many L
 [![MWEB Scanning](./mweb-prompt.png){:width="32%"}](./mweb-prompt.png)
 [![MWEB Notice](./warning.png){:width="32%"}](./warning.png)
 
-The wallet will start downloading the needed header data, and show the MWEB balance card.
-Once it's fully synchronized, you can tap the "Peg In" button to open the send screen and choose how much Litecoin to send into the MWEB network.
+The wallet will start downloading the needed header data, and show the MWEB balance card. Once it's fully synchronized, you can send and receive MWEB coins.
+
+### Peg In and Peg Out
+
+In order to get your Litecoins in and out of the MWEB network, you can use the `Peg In` and `Peg Out` buttons. These buttons will respectively open a send screen to your MWEB address or Litecoin Segwit address.
 
 {: .note}
-This is not required to do before sending to an MWEB wallet, but can be done to improve privacy by pre-emptively sending these funds into the MWEB network.
+This is not required to do before sending to an MWEB wallet, but can be done to improve privacy by pre-emptively sending these funds into the MWEB network, as well as making MWEB transactions quicker.
 
 [![MWEB Balance](./mweb.png){:width="32%"}](./mweb.png)
 [![MWEB Peg In](./pegin.png){:width="32%"}](./pegin.png)
 
-If you would like to disable MWEB synchronization or enable MWEB, switch the "Set MWEB always scanning" toggle under Menu -> MWEB settings.
+### Enable or Disable
+
+If you would like to enable or disable MWEB synchronization, switch the "Set MWEB always scanning" toggle under Menu -> MWEB settings.
+
+{: .note}
+Even when MWEB is disabled, your MWEB address will continue to work. <br> However, you will need to re-enable MWEB to scan the needed blocks to receive your funds.
 
 [![App menu](./menu.png){:width="32%"}](./menu.png)
 [![Toggle always scanning](./alwaysscan.png){:width="32%"}](./alwaysscan.png)
