@@ -46,7 +46,7 @@ The wallet will start downloading the needed header data, and show the MWEB bala
 
 ### Peg In and Peg Out
 
-In order to get your Litecoins in and out of the MWEB network, you can use the `Peg In` and `Peg Out` buttons. These buttons will respectively open a send screen to your MWEB address or Litecoin Segwit address.
+In order to get your Litecoins in and out of the MWEB network, you can use the `Peg In` and `Peg Out` buttons. These buttons will respectively open a send screen to your MWEB address or Litecoin Segwit address, allowing you to send your MWEB coins or transparent coins into the opposite side.
 
 {: .note}
 This is not required to do before sending to an MWEB wallet, but can be done to improve privacy by pre-emptively sending these funds into the MWEB network, as well as making MWEB transactions quicker.
