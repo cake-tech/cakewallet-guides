@@ -18,7 +18,7 @@ Your Polygon address will start with `0x` followed by a series of alphanumeric c
 
 ## Seed Format
 
-Cake Wallet uses a 12-word BIP39 seed format for Polygon wallets. When creating or restoring a wallet, you'll need to use this 12-word seed phrase or the private key. The derivation path used is `m/44'/60'/0'/0/0`.
+Cake Wallet uses a 12-word BIP39 seed format for Polygon wallets. When creating or restoring a wallet, you'll need to use this 12-word seed phrase or the private key. The derivation path used is `m/44'/60'/0'/0`.
 
 ## Fee Levels
 

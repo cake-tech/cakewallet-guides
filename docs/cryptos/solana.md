@@ -14,7 +14,7 @@ In Cake Wallet's Solana wallet, there is only one address per wallet, which is s
 
 ## Seed Format
 
-Cake Wallet uses a 12-word BIP39 seed format for Solana wallets. When creating or restoring a wallet, you'll need to use this 12-word seed phrase or the private key. The derivation path used is `m/44'/60'/0'/0/0`.
+Cake Wallet uses a 12-word BIP39 seed format for Solana wallets. When creating or restoring a wallet, you'll need to use this 12-word seed phrase or the private key. The derivation path used is `m/44'/60'/0'/0`.
 
 ## Fee Levels
 

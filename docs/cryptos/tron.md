@@ -14,7 +14,7 @@ In Cake Wallet's Tron wallet, there is only one address per wallet, which is sta
 
 ## Seed Format
 
-12-word BIP39 seed type is generated for Tron wallets. When creating or restoring a wallet, you'll need to use this 12-word seed phrase or the private key. The derivation path used is `m/44'/60'/0'/0/0`.
+12-word BIP39 seed type is generated for Tron wallets. When creating or restoring a wallet, you'll need to use this 12-word seed phrase or the private key. The derivation path used is `m/44'/60'/0'/0`.
 
 ## Tokens
 
