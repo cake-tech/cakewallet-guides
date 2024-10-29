@@ -3,7 +3,7 @@ title: "Ethereum"
 parent: Cryptos
 ---
 
-# Ethereum
+# ![Ethereum Logo](./ethereum.svg){:width="4%"} Ethereum
 
 {: .friendly}
 Official Website: [ethereum.org](https://ethereum.org/){:target="_blank"}

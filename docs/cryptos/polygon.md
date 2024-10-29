@@ -3,7 +3,7 @@ title: "Polygon"
 parent: Cryptos
 ---
 
-# Polygon
+# ![Polygon Logo](./polygon.svg){:width="4%"} Polygon
 
 {: .friendly}
 Official Website: [polygon.technology](https://polygon.technology/){:target="_blank"}

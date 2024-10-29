@@ -3,7 +3,7 @@ title: "Nano"
 parent: Cryptos
 ---
 
-# Nano
+# ![Nano Logo](./nano.svg){:width="4%"} Nano
 
 {: .friendly}
 Official Website: [nano.org](https://nano.org/){:target="_blank"}

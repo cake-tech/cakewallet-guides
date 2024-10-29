@@ -3,7 +3,7 @@ title: "Solana"
 parent: Cryptos
 ---
 
-# Solana
+# ![Solana Logo](./solana.svg){:width="4%"} Solana
 
 {: .friendly}
 Official Website: [solana.com](https://solana.com/){:target="_blank"}

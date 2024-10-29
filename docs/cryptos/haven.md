@@ -3,10 +3,13 @@ title: "Haven"
 parent: Cryptos
 ---
 
-# Haven
+# ![Haven Logo](./haven.svg){:width="4%"} Haven
 
 {: .friendly}
 Official Website: [havenprotocol.org](https://havenprotocol.org/){:target="_blank"}
+
+{: .warning}
+Haven in Cake Wallet is currently deprecated and wallet creation is disabled. You may use existing wallets until Haven is removed.
 
 ## Syncing
 

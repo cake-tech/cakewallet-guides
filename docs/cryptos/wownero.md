@@ -3,7 +3,7 @@ title: "Wownero"
 parent: Cryptos
 ---
 
-# Wownero
+# ![Wownero Logo](./wownero.svg){:width="4%"} Wownero
 
 {: .friendly}
 Official Website: [wownero.org](https://wownero.org/){:target="_blank"}

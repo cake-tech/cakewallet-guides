@@ -3,7 +3,7 @@ title: "Monero"
 parent: Cryptos
 ---
 
-# Monero
+# ![Monero Logo](./monero.svg){:width="4%"} Monero
 
 {: .friendly}
 Official Website: [getmonero.org](https://www.getmonero.org/){:target="_blank"}

@@ -3,7 +3,7 @@ title: "Bitcoin Cash"
 parent: Cryptos
 ---
 
-# Bitcoin Cash
+# ![Bitcoin Cash Logo](./bitcoin-cash.svg){:width="4%"} Bitcoin Cash
 
 {: .friendly}
 Official Website: [bitcoincash.org](https://bitcoincash.org/){:target="_blank"}

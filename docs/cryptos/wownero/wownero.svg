@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="wownero.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="10.67"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-width="1681"
+     inkscape:window-height="1182"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3" />
+  <g
+     transform="translate(100, 100) rotate(180)"
+     id="g3">
+    <path
+       fill="white"
+       d="M7.291676 76 Q4.3 71 2.629115 66 H18 V22 L50 58.5 82 22 V66 H97.370885 Q95.7 71 92.708324 76 H72 V48 L50 74 28 48 V76 H7.291676 Z"
+       id="path1" />
+    <path
+       fill="#f2651c"
+       d="M2.629115 66 Q0 58.2 0 50 C0 22.4 22.4 0 50 0 77.6 0 100 22.4 100 50 Q100 58.2 97.370885 66 H82 V22 L50 58.5 18 22 V66 H2.629115 Z"
+       id="path2"
+       style="fill:#ffa600;fill-opacity:1" />
+    <path
+       fill="#4d4d4d"
+       d="M7.291676 76 Q22 100 50 100 Q78 100 92.708324 76 H72 V48 L50 74 28 48 V76 H7.291676 Z"
+       id="path3"
+       style="fill:#ff00ff;fill-opacity:1" />
+  </g>
+</svg>
