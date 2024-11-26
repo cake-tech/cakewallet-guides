@@ -6,6 +6,9 @@ description: "Cake Wallet Guides and Support"
 permalink: /
 ---
 
+[![Cake Wallet](./docs/index/cw.png){:width="70%"}](cw.png)
+[![Devices](./docs/index/devices.png){:width="80%"}](devices.png)
+
 # Hello!
 
 {: .friendly}
