@@ -1,9 +1,9 @@
 ---
 title: "Linux"
-parent: Tutorials
+parent: Install
 ---
 
-# Linux Installation
+# Linux
 
 ## Flatpak (Recommended)
 
