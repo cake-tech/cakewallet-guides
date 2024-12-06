@@ -1,6 +1,6 @@
 ---
 title: "Obtanium"
-parent: Android
+parent: Install
 ---
 
 # Android
