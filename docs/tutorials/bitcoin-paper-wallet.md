@@ -29,6 +29,6 @@ After creating a paper wallet, you will want to acquire some BTC; there are mult
 
 ## Step 3: Send your Bitcoin to the paper wallet
 
-Once you've created your Bitcoin paper wallet, you will need to send your Monero to the wallet address you noted earlier. Make sure the address is correct, even if you copy-pasted it. Remember that if you send the coins to the wrong address, there is no way to have them back! The fastest way to get BTC in your wallet is by transferring from another wallet such as [Cake Wallet](https://cakewallet.com/). You can verify that a transfer to the address occured by checking a Bitcoin block explorer.
+Once you've created your Bitcoin paper wallet, you will need to send your Bitcoin to the wallet address you noted earlier. Make sure the address is correct, even if you copy-pasted it. Remember that if you send the coins to the wrong address, there is no way to have them back! The fastest way to get BTC in your wallet is by transferring from another wallet such as [Cake Wallet](https://cakewallet.com/). You can verify that a transfer to the address occured by checking a Bitcoin block explorer.
 
 That's it! You've successfully created a Bitcoin (BTC) paper wallet! When you are ready to restore the wallet, input the public and private keys into your preferred wallet.
