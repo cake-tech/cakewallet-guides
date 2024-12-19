@@ -6,8 +6,7 @@ parent: Basic Features
 # Restore account from hardware wallet
 
 {: .note}
-Currently, we only support restoring from Ledger devices, with support for more devices coming soon.
-Only Bitcoin, Ethereum, and Polygon are currently supported.
+Currently, we only support restoring from Ledger devices, with support for more devices coming soon. We support restoring Bitcoin, Ethereum, Polygon, Litecoin, & Monero.
 
 ## Step 1
 
