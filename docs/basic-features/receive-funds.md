@@ -5,7 +5,7 @@ parent: Basic Features
 
 # Receive funds
 
-## Receiving Monero or Haven
+## Receiving Monero
 
 ### Current wallet address
 
