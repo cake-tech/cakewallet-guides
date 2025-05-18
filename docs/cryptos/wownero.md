@@ -12,7 +12,7 @@ Wownero is a Doge-inspired, CPU-mineable, solo-mining only, privacy-respecting m
 
 ## Usage
 
-Because Wownero is a fork of Monero, it mostly works the same way from a user perspective, and most of the information on the [Monero](https://guides.cakewallet.com/docs/cryptos/monero/) page will apply to Wownero.
+Because Wownero is a fork of Monero, it mostly works the same way from a user perspective, and most of the information on the [Monero](https://docs.cakewallet.com/cryptos/monero/) page will apply to Wownero.
 
 The major differences from Monero is that multiple accounts are not supported.
 
