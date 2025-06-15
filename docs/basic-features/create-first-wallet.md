@@ -12,11 +12,12 @@ We want to welcome you to using Cake Wallet! We hope you have a wonderful experi
 
 You first need the Cake Wallet official application.
 
-* Apple App Store (iPhone, MacOS): [https://cakewallet.com/ios](https://cakewallet.com/ios)
-* Google Play: [https://cakewallet.com/gp](https://cakewallet.com/gp)
-* F-Droid: [https://fdroid.cakelabs.com](https://fdroid.cakelabs.com)
-* Android APK: [https://cakewallet.com/apk](https://cakewallet.com/apk)
-* Linux: [https://github.com/cake-tech/cake_wallet/releases](https://github.com/cake-tech/cake_wallet/releases)
+* [Apple App Store (iPhone, MacOS)](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542)
+* [Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet&referrer=utm_source%3Dguides.cakewallet.com%26utm_medium%3Dwebsite)
+* [Accrescent](https://accrescent.app/app/com.cakewallet.cake_wallet)
+* [Android APK](https://github.com/cake-tech/cake_wallet/releases)
+* [Linux](https://github.com/cake-tech/cake_wallet/releases)
+* [Windows](https://github.com/cake-tech/cake_wallet/releases)
 
 ## Initial app configuration
 
@@ -54,4 +55,4 @@ Here is a list of a few known-good password managers. Open-source ones are recom
 | KeepassXC | Desktop | Local 💾 | GPLv3 ✅ |
 | KeepassDX | Android | Local 💾 | GPLv3 ✅ |
 | 1Password| Desktop | Cloud ☁️ | Proprietary ☢️ |
-| iCloud Keychain | Apple Only | Cloud ☁️ | Proprietary ☢️ |
+| iCloud Passwords | Desktop, iOS | Cloud ☁️ | Proprietary ☢️ |

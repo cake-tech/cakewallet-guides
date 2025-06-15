@@ -103,7 +103,7 @@ Cake Wallet's exchange providers support dozens of different cryptocurrency pair
 | USDT | Tether | ETH, OMNI, TRX |
 | WBTC | Wrapped Bitcoin | ETH |
 | WETH | Wrapped Ethereum | ETH |
-| XHV | Haven | Native |
+| XHV | Haven | Native | Project Shut Down |
 | XLM | Stellar Lumens | Native | Convert from only |
 | XMR | Monero | Native |
 | XRP | Ripple | Native | Convert from only |

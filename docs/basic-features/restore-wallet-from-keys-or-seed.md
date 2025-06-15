@@ -25,7 +25,7 @@ Tap `Restore from seed/keys`, then choose the wallet type.
 
 ## Step 3
 
-If you choose Monero, Ethereum, Nano, or Haven, you can restore your wallet from the seed phrase or keys.
+If you choose Monero, Ethereum, or Nano you can restore your wallet from the seed phrase or keys.
 
 To swap from `Restore from seed` to `Restore from keys`, swipe the screen left to right.
 
